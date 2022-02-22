@@ -1,0 +1,1888 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Advice to a parson, or, The true art of preaching, in opposition to modern practice written by a person of honour to Dr. S---, his late chaplin ...</title>
+            <author>Person of honour.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 84 KB of XML-encoded text transcribed from 44 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26447</idno>
+            <idno type="STC">Wing A641</idno>
+            <idno type="STC">ESTC R1158</idno>
+            <idno type="EEBO-CITATION">12305750</idno>
+            <idno type="OCLC">ocm 12305750</idno>
+            <idno type="VID">59243</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59243)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 908:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Advice to a parson, or, The true art of preaching, in opposition to modern practice written by a person of honour to Dr. S---, his late chaplin ...</title>
+                  <author>Person of honour.</author>
+               </titleStmt>
+               <extent>[2], 87, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Errata: p. [2] at end.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Preaching --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59243:1"/>
+            <pb facs="tcp:59243:1" rendition="simple:additions"/>
+            <p>Advice to a Parſon: OR, The <hi>True ART of</hi> PREACHING, IN OPPOSITION TO <hi>Modern Practice,</hi>
+            </p>
+            <p>Written by A Perſon of Honour TO DR. <hi>S</hi>—, his late Chaplin;</p>
+            <p>Made Publick, Chiefly, for the EDIFICATION of both UNIVERSITEIS.</p>
+            <p>Printed in the Year, M.DC.XC.I.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:59243:2"/>
+            <pb n="1" facs="tcp:59243:2"/>
+            <head>THE ART OF Preaching, To a PARSON.</head>
+            <div n="1" type="canticle">
+               <head>Cant. I.</head>
+               <lg>
+                  <l>STill you continue, <hi>Preaching,</hi> to Profeſs;</l>
+                  <l>Then pack your Labour'd Follies, to the Preſs:</l>
+                  <l>But, <hi>Parſon,</hi> You'l at length be fain to own,</l>
+                  <l>'Tis the moſt Irkſome, Crabbed Trade in Town.</l>
+                  <l>What's <hi>Hardſhip?</hi> You reply, to Me, Inſpir'd,</l>
+                  <l>To Natural Parts, who Science have acquir'd;</l>
+                  <l>
+                     <pb n="2" facs="tcp:59243:3"/>More luckily ne're did <hi>M</hi>— in the Hall,</l>
+                  <l>His Brother <hi>Serjeant</hi> Interrupting baul:</l>
+                  <l>My Graceful Perſon long has took at Court,</l>
+                  <l>Of which, the <hi>Fifty</hi> Chaplains All came ſhort:</l>
+                  <l>My Poſtures, well-ſhap'd Hand, and ſparkling Eye,</l>
+                  <l>Command Attention from the Laiety:</l>
+                  <l>My Voice ſtrikes quite, to the Circumference</l>
+                  <l>Of all my Numerous, Thronging Audience.</l>
+                  <l>I ſpeak pure Engliſh, and the Methods know,</l>
+                  <l>To handle a Diſcourſe, and Vary too:</l>
+                  <l>
+                     <hi>Waller</hi> I Top, on <hi>Dryden</hi> I refine,</l>
+                  <l>Whoſe clever Style, more properly is Mine:</l>
+                  <l>More than <hi>Ben. Johnſon,</hi> does to me belong,</l>
+                  <l>To make a <hi>Grammar</hi> for the <hi>Engliſh</hi> Tongue.</l>
+                  <l>I <hi>Rapin</hi>'s Learned Volumes have read o're,</l>
+                  <l>Which makes me know my ſelf an Orator:</l>
+                  <l>I, in his Pages, nothing have deſcry'd,</l>
+                  <l>What Nature had not in my ſelf ſupply'd.</l>
+                  <l>
+                     <pb n="3" facs="tcp:59243:3"/>A Score of Chaplains, with leſs Senſe than Me,</l>
+                  <l>Have leapt from Benefice to Prelacy.</l>
+                  <l>My Sermons do Expect the like Reward;</l>
+                  <l>In order To't next Sunday I'll be heard.</l>
+               </lg>
+               <lg>
+                  <l>Ere with the <hi>People,</hi> you being, I ſue,</l>
+                  <l>That my <hi>Inſtructions</hi> may begin with you;</l>
+                  <l>And ſince, You're fixt, I am oblig'd to ſay,</l>
+                  <l>Your Eaſe will cheat you, You muſt Toyl all day.</l>
+                  <l>'Twill be the laſt Thing I'll to you preſcribe,</l>
+                  <l>T' Increaſe the Number of the <hi>Tireſome Tribe.</hi>
+                  </l>
+                  <l>No certain <hi>Maximes</hi> are laid down to Preach,</l>
+                  <l>Of <hi>Humane Science,</hi> 'tis above the reach:</l>
+                  <l>
+                     <hi>Heav'ns Maſter</hi> does alone the Secret know;</l>
+                  <l>And, where He pleaſes, does the Gift beſtow.</l>
+                  <l>Your <hi>Air,</hi> your <hi>Voice,</hi> your <hi>Meen,</hi> have won you Fame,</l>
+                  <l>All theſe are Serviceable to Declaim:</l>
+                  <l>Theſe helps ſet off an Actor on the Stage;</l>
+                  <l>With Theſe, the Pleader does the Judge engage:</l>
+                  <l>
+                     <pb n="4" facs="tcp:59243:4"/>To theſe Endowments, Learning, and deep Sence,</l>
+                  <l>
+                     <hi>F</hi> — has the moſt enſuring Eloquence:</l>
+                  <l>By his neat Style, and Judgment moſt exact,</l>
+                  <l>Clears confus'd Cauſes, which thick Sculls protract;</l>
+                  <l>In <hi>Evidence,</hi> Prolixity declines,</l>
+                  <l>And Summs up their Ten Pages, in five Lines.</l>
+               </lg>
+               <lg>
+                  <l>Theſe Qualities accompliſh Trades profane,</l>
+                  <l>But on the Miniſtry, are Loſt and Vain;</l>
+                  <l>In them the perfect Character is found,</l>
+                  <l>Where th' <hi>Art of pleaſing does with Grace abound;</hi>
+                  </l>
+                  <l>'Tis <hi>Preaching,</hi> where the Alarmed Soul betakes</l>
+                  <l>Its ſelf to a New Life, Old Sins forſakes;</l>
+                  <l>
+                     <hi>For he no Sermon, who no Convert makes.</hi>
+                  </l>
+                  <l>In hardned Errours when 'twas prepoſſeſt,</l>
+                  <l>Its Ways are Chang'd, and by the Change finds Reſt.</l>
+               </lg>
+               <lg>
+                  <l>Shew me, whence may this Prodigy proceed,</l>
+                  <l>
+                     <hi>Faith</hi> points out th' <hi>Author of the Mighty Deed;</hi>
+                  </l>
+                  <l>
+                     <pb n="5" facs="tcp:59243:4"/>He keeps that Soveraign Pow'r in his own hand,</l>
+                  <l>Gives Man Commiſſion but to reprimand:</l>
+                  <l>From Exhortation is his Pow'rs Extent,</l>
+                  <l>To denounce Juſtice, and ſure Puniſhment.</l>
+                  <l>What ever Doctrine from his Lips goes forth,</l>
+                  <l>Is down right Vanity, and nothing Worth,</l>
+                  <l>Unleſs to Heav'n he does his Thoughts reſign,</l>
+                  <l>And all his meanings are become Divine,</l>
+                  <l>Wanting Credentials, Him the World will find,</l>
+                  <l>No Emiſſary to convert Mankind.</l>
+               </lg>
+               <lg>
+                  <l>This, <hi>Parſon, Doctors</hi> needs muſt let you know;</l>
+                  <l>And <hi>Common Reaſon</hi> their Superiour too;</l>
+                  <l>You long t' appear in Publick; but beforehand,</l>
+                  <l>Conſult Your ſelf, Your ſelf to Underſtand;</l>
+                  <l>Search if that <hi>Pulſe,</hi> that <hi>Ardour Heav'n</hi> imparts,</l>
+                  <l>Which quickned Zeal in the <hi>Firſt Chriſtians</hi> Hearts?</l>
+                  <l>If ſo, Preach on in <hi>God Almighty's</hi> Name,</l>
+                  <l>Immortal War to Sin, and Vice proclaim,</l>
+                  <l>
+                     <pb n="6" facs="tcp:59243:5"/>That by Your Voice Triumphant over Sin,</l>
+                  <l>The load Men may grow weary to keep in,</l>
+                  <l>And to Repentance go in Crowds begin.</l>
+                  <l>If ſordidly baſe intereſt be Your bait,</l>
+                  <l>Of You for Popular Applauſe do wait,</l>
+                  <l>Indifferent as the Faith to propagate:</l>
+                  <l>If You on <hi>God,</hi> fix your pretended Theme,</l>
+                  <l>Your Words regarding more Your ſelf, than Him:</l>
+                  <l>Irreverent Impudence, in Church, to dare,</l>
+                  <l>That which the drooping Play houſe would not bare.</l>
+                  <l>
+                     <hi>Goodman</hi> a figure makes of a much better ſort,</l>
+                  <l>Has better pleas'd, and leſs to anſwer for't.</l>
+               </lg>
+               <lg>
+                  <l>Who knows, You anſwer, if the fire Divine,</l>
+                  <l>Burn brighter in a Humane Breſt than Mine:</l>
+                  <l>Or the Supream, whoſe Choice was always free</l>
+                  <l>For <hi>Healing Souls,</hi> has not allotted me?</l>
+                  <l>The Doubt will not perplex Us long I gueſs,</l>
+                  <l>If Parſon, You'll ingeniouſly confeſs,</l>
+                  <l>
+                     <pb n="7" facs="tcp:59243:5"/>That ſince you have ſo narrowly deſcry'd,</l>
+                  <l>Our failings, Your own life you've rectify'd?</l>
+                  <l>If in the Holy Week, we ſhould produce,</l>
+                  <l>Lent Preachers Preach't, which is not now in uſe,</l>
+                  <l>Their Sermons would back on Themſelves Recoyl,</l>
+                  <l>And their Own Reaſons their Own Neſts defile.</l>
+               </lg>
+               <lg>
+                  <l>A Preacher, whoſe Deportment did Imply,</l>
+                  <l>A ſenſe Internal of Divinity,</l>
+                  <l>Againſt Exceſs, and th' Ages Lux'ury ſpoke.</l>
+                  <l>That to the very Heart a Cit was ſtruck,</l>
+                  <l>Strait goes home to his Wife, and ſays, I have</l>
+                  <l>Reſolved to leave All, my Soul to ſave:</l>
+                  <l>All, ſays She! Yes, the Parſon makes it out,</l>
+                  <l>There's no Salvation with above one Sute.</l>
+                  <l>I'll keep but One, though I've at preſent Two,</l>
+                  <l>Th' other to th' Priſoners, or the Poor ſhall go.</l>
+                  <l>Poor Spouſe by All means would the Preacher ſee,</l>
+                  <l>If He'd perſiſt, or cancel his Decree?</l>
+                  <l>
+                     <pb n="8" facs="tcp:59243:6"/>Attempts a Viſit: To the Door being come,</l>
+                  <l>Demands, if Mr. Parſon be at home:</l>
+                  <l>The ſaucy Foot-man ſnaps her up, and ſays;</l>
+                  <l>My Maſter can't dine for you now adays;</l>
+                  <l>Excuſe me, Sir, till he has din'd, I'll wait:</l>
+                  <l>Then by my Troth, You'll tarry pretty late.</l>
+                  <l>I'll go, and come again; Sir, go or ſtay</l>
+                  <l>'Tis the ſame Thing; for e're ſince Yeſterday,</l>
+                  <l>T' My certain knowledge, He's engag'd to play.</l>
+                  <l>To morrow think you, he will be at home?</l>
+                  <l>Yes, but take care too Early not to come.</l>
+                  <l>To ſpeak with him next Morning ſhe repairs.</l>
+                  <l>Wait in the Hall, H'll quickly come down ſtairs:</l>
+                  <l>The Servant bids her. She deſires to know</l>
+                  <l>Whither He may be ſtirring yet, or no?</l>
+                  <l>Yes, He's got up a little while ago.</l>
+                  <l>He's in his Wardrobe tumbling up and down,</l>
+                  <l>Changing his Cloaths juſt to ride out of Town.</l>
+                  <l>
+                     <pb n="9" facs="tcp:59243:6"/>Changing his Cloaths! Then I ſhall pack away!</l>
+                  <l>If he hath Two Suits, I have nought to ſay.</l>
+                  <l>A Narrative, her Tongue in full Carriere,</l>
+                  <l>Makes of his Wardrobe, Gaming, and good Cheer:</l>
+                  <l>By his example is the Cheat diſclos'd,</l>
+                  <l>The Sermon on the Scrupulous Cit Impos'd:</l>
+                  <l>Such blighted Preaching to the ground muſt fall,</l>
+                  <l>Though We ſuch Sermons edifying call;</l>
+                  <l>The bad Example, does unravel All.</l>
+                  <l>With Rhetorick adorning Holy Writ,</l>
+                  <l>In Vain Your Sermons play the Hypocrite:</l>
+                  <l>If me You'd move, let me ſee Fruits in Thee,</l>
+                  <l>Which by Your Words You ſeek to plant in me:</l>
+                  <l>Thus the Apoſtles Preacht, in Ages paſt,</l>
+                  <l>Their Holy Patterns ſhall for ever laſt;</l>
+                  <l>He drives another Road, and in the wrong,</l>
+                  <l>Whoſe Heart goes not togeather with his Tongue.</l>
+                  <l>
+                     <pb n="10" facs="tcp:59243:7"/>You know the means t' obtain th' Heav'nly Grace,</l>
+                  <l>Get T—to preach then in your Place;</l>
+                  <l>Him with attention hear, you'll ſoon diſcern</l>
+                  <l>From Him You'll beſt <hi>The Art of Preaching</hi> learn:</l>
+                  <l>No man has got the knack of ſpeaking well,</l>
+                  <l>But can the proper Times for ſilence Tell.</l>
+               </lg>
+               <lg>
+                  <l>Three Years to <hi>Oxford</hi> Converſe fix Your mind,</l>
+                  <l>To Lectures, and to Libraries confin'd:</l>
+                  <l>There from <hi>Chimaeras</hi> wean'd, vain fancies free,</l>
+                  <l>You may the Slightneſs of your Projects ſee;</l>
+                  <l>There Meek, Sincere, Devout, and Wiſer grown,</l>
+                  <l>Your Nei'bors Faults; leſs cenſuring than your own,</l>
+                  <l>Of <hi>Vice,</hi> which you cry'd down without reproach,</l>
+                  <l>I'll then believe you don't on Heav'n encroach,</l>
+                  <l>But that you have divine unqueſtion'd Right:</l>
+                  <l>You, Sir, my Counſel, I perceive, does fright?</l>
+                  <l>
+                     <pb n="11" facs="tcp:59243:7"/>Three whole Years in a cloſe Retirement ſtay:</l>
+                  <l>That's fine indeed, I'll not put off my Day,</l>
+                  <l>For I ſhall Preach as ſure as I ſhall Pray,</l>
+                  <l>Who think You I to Preach my Courſe ſhall get?</l>
+                  <l>The Princeſs muſt be ſerv'd by—</l>
+                  <l>Beſides You know my Word's already took,</l>
+                  <l>My Name is mark't down in the Veſtry Book:</l>
+                  <l>How if in this more ſolemn Time of Lent,</l>
+                  <l>I failing, ſhould my Parents diſcontent;</l>
+                  <l>And diſoblige my Friends; who did not ſpare</l>
+                  <l>For my preferment, journeys, purſe, or care:</l>
+                  <l>And now I'm in poſſeſſion, I'll make bold,</l>
+                  <l>Since there are but few Richer, This to hold:</l>
+                  <l>To the Apoſtle-like, I don't pretend;</l>
+                  <l>But am an honeſt Man, and there's an End;</l>
+                  <l>Crowds by the Noſe, my much Inferiours lead,</l>
+                  <l>And few the beaten paths of Virtue tread.</l>
+                  <l>
+                     <pb n="12" facs="tcp:59243:8"/>Since You'r determin'd on the Enterpriſe,</l>
+                  <l>Communicate but where the Motive lies;</l>
+                  <l>What makes the Gentry Flock about You thus?</l>
+                  <l>What's the device, You know no more than Us.</l>
+                  <l>You'll ſcarce preſume upon Your own deſert;</l>
+                  <l>That You muſt leave to Preachers more expert.</l>
+                  <l>To pack an Audience, You've more ways indeed'</l>
+                  <l>Only the Sleepers, Hearers do exceed.</l>
+                  <l>Of my Sharp Muſe, I gueſs You are afraid,</l>
+                  <l>Leſt of Your Gang, the Shifts ſhould be betray'd,</l>
+                  <l>And on what ſcore ſhould plainly make appear,</l>
+                  <l>To preaching Man ſo often lends his Ear:</l>
+                  <l>On ſuch a Subject ſo for Satyr fit,</l>
+                  <l>To Your coſt, Parſon, I could ſhew my Wit,</l>
+                  <l>On Your deep Art, though I with Malice fall,</l>
+                  <l>Your ſelf believe not an Original:</l>
+                  <l>Moſt Mens ſucceſsful <hi>Inſufficiencies</hi>
+                  </l>
+                  <l>By Parties back't paſs for Abilities;</l>
+                  <l>
+                     <pb n="13" facs="tcp:59243:8"/>Some Great Men ne're are wanting, to Protect:</l>
+                  <l>Dulneſs the very Pariſh would eject;</l>
+                  <l>To Hear their <hi>Paſtor</hi> they would hardly Meet,</l>
+                  <l>Unleſs He did, in the <hi>Concluſion,</hi> Treat.</l>
+               </lg>
+               <lg>
+                  <l>After this Vice, the <hi>Gown</hi> has over-ſpread,</l>
+                  <l>Do You, t'increaſe the general Grievance, dread?</l>
+                  <l>Turn <hi>Preacher</hi> of the Times, get Friends enough;</l>
+                  <l>Nothing like Truſty Lads, to bring you off.</l>
+                  <l>How ill ſtrives Modeſty againſt the Mode?</l>
+                  <l>What's common grown, Men cautiouſly explode.</l>
+                  <l>—Should be, in my Opinion, prais'd;</l>
+                  <l>His Family He by this Method rais'd:</l>
+                  <l>For at Two thouſand Pounds a Year they rate,</l>
+                  <l>Jewels apart, his viſible Eſtate:</l>
+                  <l>Good Mortgages his ready Caſh ſecur'd;</l>
+                  <l>Which, to ſcrape up, Eternal Toyls endur'd.</l>
+                  <l>Two Boys were only his Apparent Heirs,</l>
+                  <l>Whoſe Riches ſeemed, in Reverſion, theirs.</l>
+                  <l>
+                     <pb n="14" facs="tcp:59243:9"/>Two thouſand Pounds a Year to ſerve for Two,</l>
+                  <l>Now I think better on't, it will not do:</l>
+                  <l>I care not much my Capital to divide,</l>
+                  <l>My Youngeſt ſhall be from the <hi>Church</hi> ſupply'd;</l>
+                  <l>And ſhall with ſtudy, by his Trade in time,</l>
+                  <l>Or to a Biſhoprick by Favour climb.</l>
+                  <l>But, Does the Biſhoprick give Eloquence?</l>
+                  <l>Or Parts improve, or give us deeper Senſe?</l>
+                  <l>'Tis Heav'n exalts Us to that high Degree.</l>
+                  <l>If Heav'n call'd any Man, my Son is He:</l>
+                  <l>He muſt be Prelate, being laſt begot;</l>
+                  <l>For That, by Courſe of Nature, is his Lot.</l>
+                  <l>We'll for the <hi>Church</hi> Train up his Tender Age;</l>
+                  <l>He ſhall not be Defective, I engage:</l>
+                  <l>He ſhall have Parts, if Parts are ſo requir'd;</l>
+                  <l>And he ſhall Preach, if Preaching is deſir'd.</l>
+                  <l>
+                     <pb n="15" facs="tcp:59243:9"/>The Day long-look't-for, did at laſt appear;</l>
+                  <l>The Kindred all the Novice flock to hear:</l>
+                  <l>But, Did you well remark their <hi>Panick</hi> Fear?</l>
+                  <l>To ſee him one Man's Air, One's Voice affect;</l>
+                  <l>And the ſtole <hi>Sermon</hi> beſt its ſelf detect.</l>
+                  <l>What mean theſe Coaches rattling up and down?</l>
+                  <l>A New <hi>Rhinoceros</hi> arriv'd in Town?</l>
+                  <l>Sure, You can tell th'Occaſion of this Throng!</l>
+                  <l>
+                     <hi>P</hi>—Preaches; You have known him long?</l>
+                  <l>Is it —Son, I ſwear,</l>
+                  <l>His Father's my good Friend; I muſt be There,</l>
+                  <l>Be but took Notice of my ſelf to ſhow;</l>
+                  <l>For Men to <hi>Sermons,</hi> as to <hi>Muſters,</hi> go.</l>
+                  <l>However He comes by it, ſuch a Crowd</l>
+                  <l>Puffs up the <hi>Preacher,</hi> makes him wondrous proud.</l>
+                  <l>One Half, if You perchance enquire, pretends</l>
+                  <l>To be <hi>Relations,</hi> and the Other, <hi>Friends.</hi>
+                  </l>
+                  <l>
+                     <pb n="16" facs="tcp:59243:10"/>If <hi>Company</hi> was Summon'd, on pretence</l>
+                  <l>To give raw, baſhful Youth, juſt Confidence;</l>
+                  <l>If our <hi>Young Preacher</hi> Kind Applauſe, did move</l>
+                  <l>His Parts in Time, by Studies to Improve:</l>
+                  <l>This proves not only an <hi>Inceptor</hi>'s Art;</l>
+                  <l>None fail for Proſelytes, to do their Part.</l>
+                  <l>—Up and Down;</l>
+                  <l>He's oft at <hi>Windſor,</hi> oft about the <hi>Town.</hi>
+                  </l>
+                  <l>My prying Friend would know, what He can mean,</l>
+                  <l>To ſhew his griſly Face, and Carkaſs lean?</l>
+                  <l>Perhaps, He thinks, by's flattering <hi>Tongue,</hi> t'advance</l>
+                  <l>At <hi>Court,</hi> his moſt unflattering Countenance:</l>
+                  <l>Though, with a Caſſock, He does not deſpair</l>
+                  <l>T'attempt the Favours of the <hi>Fickle Fair.</hi>
+                  </l>
+                  <l>
+                     <hi>Ladies,</hi> and <hi>Lords,</hi> (ſays He) on <hi>Sunday</hi> next,</l>
+                  <l>I'll at St. <hi>Giles</hi>'s Preach, on ſuch a <hi>Text.</hi>
+                  </l>
+                  <l>My Friend was <hi>There,</hi> found Him the very ſame,</l>
+                  <l>By Figure, Character, as well as Name.</l>
+                  <l>
+                     <pb n="17" facs="tcp:59243:10"/>Affected Language, and Conception vain,</l>
+                  <l>His <hi>Audience,</hi> long be ſpoke, did entertain.</l>
+                  <l>Of his Intrigues do You perceive the Drift?</l>
+                  <l>But liſt a while, I apprehend his Shift.</l>
+                  <l>This, <hi>Parſon,</hi> This it was, that gave Offence:</l>
+                  <l>Does not his Anger juſtly this incenſe?</l>
+                  <l>That <hi>Holy Goſpel</hi> has been uſed thus,</l>
+                  <l>
+                     <hi>Tradition</hi> has not yet informed Us.</l>
+                  <l>The Pious, Antient <hi>Preachers</hi> did not rove,</l>
+                  <l>From Pariſh-Church, to Pariſh-Church remove:</l>
+                  <l>In their own Provinces were only Heard;</l>
+                  <l>And in no Pulpit, but their Own, appear'd.</l>
+                  <l>Their Fame did o're the Univerſe extend,</l>
+                  <l>Their <hi>Chriſtian Doctrine</hi> All did comprehend:</l>
+                  <l>With greateſt <hi>Sinners</hi> were Acquainted beſt;</l>
+                  <l>With Thoſe moſt Intimate, who moſt <hi>Confeſs't.</hi>
+                  </l>
+                  <l>
+                     <hi>Contrition</hi> did Acquaintance recommend;</l>
+                  <l>In <hi>Pray'r,</hi> and <hi>Study,</hi> only did contend.</l>
+                  <l>
+                     <pb n="18" facs="tcp:59243:11"/>Our <hi>Idle Drone</hi> with <hi>Sextons</hi> is in League,</l>
+                  <l>And with <hi>Church-Wardens,</hi> works for his Intrigue.</l>
+                  <l>But, let That paſs; His Wants ſuch Tools demand,</l>
+                  <l>Which may be ev'ry where got to his Hand:</l>
+                  <l>Let him to griping, ſordid <hi>Vermin</hi> creep,</l>
+                  <l>With Them a ſneaking Correſpondence keep;</l>
+                  <l>That He a Velvet Cuſhion may procure:</l>
+                  <l>We ſhall be forc'd, this Grievance to endure.</l>
+                  <l>But to hear ſo much Stuff, ſo little Senſe,</l>
+                  <l>Such gaudy <hi>Nothings,</hi> tip't with Impudence;</l>
+                  <l>His <hi>Morals,</hi> cover'd o're with <hi>Iſing glaſs,</hi>
+                  </l>
+                  <l>All put together, for a <hi>Sermon</hi> paſs:</l>
+                  <l>This is Abomination, Horror breeds,</l>
+                  <l>As ev'n the Senſe of all our Faults exceeds.</l>
+                  <l>My angry Friend luggs out; and after, I,</l>
+                  <l>Finding him in the Right, for Company.</l>
+                  <l>You, <hi>Parſon,</hi> who do only beat your Brain,</l>
+                  <l>Before <hi>Whom, When, Where,</hi> You ſhall <hi>Preach</hi> again;</l>
+                  <l>
+                     <pb n="19" facs="tcp:59243:11"/>Do You at my <hi>Comrade</hi>'s Departure, wink:</l>
+                  <l>Or in his <hi>Anger,</hi> had He <hi>Wit,</hi> d'ye think?</l>
+               </lg>
+            </div>
+            <div n="2" type="canticle">
+               <head>Cant. II.</head>
+               <lg>
+                  <l>IF <hi>Self-Conceit</hi> get not the Upper-hand,</l>
+                  <l>Tell Us, If the True Style you underſtand,</l>
+                  <l>By which the <hi>Goſpel</hi> is moſt Pow'rful made,</l>
+                  <l>That ſinful <hi>Mortals</hi> may turn <hi>Retrograde.</hi>
+                  </l>
+                  <l>Can You Words apt for <hi>Promulgation</hi> chooſe?</l>
+                  <l>Rank them by Art, their Force they ſhall not loſe.</l>
+                  <l>One thinks, he has the Elegance of <hi>Style,</hi>
+                  </l>
+                  <l>And can ſpeak very well; when all this while,</l>
+                  <l>He with a <hi>Modiſh Phraſe, Terms</hi> Quaint and Pat,</l>
+                  <l>Has garniſh't a <hi>Diſcourſe</hi> all over flat.</l>
+                  <l>
+                     <pb n="20" facs="tcp:59243:12"/>One to a Word an <hi>Epithete</hi> has tack't;</l>
+                  <l>For <hi>Eloquence</hi> this paſſes moſt Exact:</l>
+                  <l>One with ſtitch't Words, together edg'd with <hi>Rhime,</hi>
+                  </l>
+                  <l>Has both <hi>Sham-Style, Sham-Muſe</hi> alike Sublime.</l>
+                  <l>The <hi>Genius</hi> of our Tongue, try to diſcern;</l>
+                  <l>Study the <hi>Force</hi> and <hi>Weight</hi> of Words to learn.</l>
+                  <l>At <hi>Modeſty</hi> in all your Writings aim,</l>
+                  <l>
+                     <hi>Diſcourſe</hi> Uneven does a <hi>Treatiſe</hi> ſhame.</l>
+                  <l>Be Noble; but forbear to Stain at all;</l>
+                  <l>And be undeſpicably Natural:</l>
+                  <l>For that <hi>Perfection</hi> is the moſt eſteem'd,</l>
+                  <l>Which by You ſlighted and neglected ſeem'd.</l>
+                  <l>In a pure Style, from Affectation free,</l>
+                  <l>Maintain, with Elegance, <hi>Simplicity.</hi>
+                  </l>
+                  <l>Form to your ſelf, in Reading <hi>Scripture,</hi> This,</l>
+                  <l>Which <hi>Nature</hi> never Painted yet amiſs.</l>
+                  <l>By This from <hi>Nature,</hi> is diſtinguiſh't <hi>Art;</hi>
+                  </l>
+                  <l>This ſpeaks to, and is anſwer'd from the <hi>Heart.</hi>
+                  </l>
+                  <l>
+                     <pb n="21" facs="tcp:59243:12"/>The <hi>Bible</hi> labour firſt to underſtand;</l>
+                  <l>Exact <hi>Compoſures</hi> your next Pains demand:</l>
+                  <l>For that <hi>Exactneſs,</hi> the <hi>True Preacher</hi> knows,</l>
+                  <l>'Twixt <hi>Orators,</hi> and <hi>Scribes,</hi> the Difference ſhows.</l>
+                  <l>When <hi>Tully</hi> Lawleſs <hi>Anthony</hi> Arraign'd,</l>
+                  <l>Or againſt <hi>Verres</hi> bold Attempts, complain'd;</l>
+                  <l>His Method of Harranguing differ'd far</l>
+                  <l>From That, when <hi>Culprit</hi> Arm'd came to the Bar.</l>
+                  <l>Would You an Amorous Dialogue deſign,</l>
+                  <l>Make <hi>Lovers</hi> both on Wit and Tongue refine;</l>
+                  <l>Then imitate a <hi>French Romancer</hi>'s Style:</l>
+                  <l>For ſuch Exactneſs will a <hi>Sermon</hi> ſpoyl.</l>
+                  <l>For one harſh <hi>Word,</hi> good <hi>Thoughts</hi> w<hi rend="sup">ch.</hi> won't admit,</l>
+                  <l>But makes to <hi>Euphony</hi> ſubſervient Wit.</l>
+                  <l>In <hi>Pulpit</hi> Set-Diſcourſes breed Diſlike;</l>
+                  <l>The <hi>Soul</hi> Divine Reflexions only ſtrike.</l>
+                  <l>Far from hence Elegant <hi>Preachers</hi> I deſire,</l>
+                  <l>Whoſe <hi>Cadence</hi> does like Jarring <hi>Jews-Harps</hi> tire:</l>
+                  <l>
+                     <pb n="22" facs="tcp:59243:13"/>This Muſical Style does rock Me faſt aſleep.</l>
+                  <l>You muſt within ſome Rules and Limits keep;</l>
+                  <l>Not, ignorantly, Helps of Art decline,</l>
+                  <l>And talk without <hi>Connexion</hi> or <hi>Deſign.</hi>
+                  </l>
+                  <l>You to the <hi>Laws</hi> of <hi>Preaching</hi> are confin'd;</l>
+                  <l>And barr'd the making New Ones to your Mind.</l>
+                  <l>All Art to uſe, no Freedom is deny'd;</l>
+                  <l>The Buſineſs is, the <hi>Artifice</hi> to hide.</l>
+                  <l>Begin not with an Air, that does amaze,</l>
+                  <l>And make Me, big with Expectation, gaze:</l>
+                  <l>With eager Haſte the World that <hi>Preacher</hi> flies,</l>
+                  <l>Who his Deſign, ſoreſtalling, Magnifies:</l>
+                  <l>Says, 'Tis of vaſt Importance; and what's more,</l>
+                  <l>Some thing that's New, You never heard before.</l>
+                  <l>But 'tis not now a Thing ſtupendious,</l>
+                  <l>The <hi>Labouring Mountain ſhould bring forth a Mouſe;</hi>
+                  </l>
+                  <l>Or Men of Matter full, at Coming-up,</l>
+                  <l>Their Stocks exhauſted, ere <hi>Concluſion,</hi> droop.</l>
+                  <l>
+                     <pb n="23" facs="tcp:59243:13"/>Himſelf the Prudent, ere he ventures, tries,</l>
+                  <l>And well examines his own faculties:</l>
+                  <l>Abſtains from Manners haughty and abſurd,</l>
+                  <l>And never promiſes, but keeps his word;</l>
+                  <l>Medlys of Sacred Stories, and profane,</l>
+                  <l>Take notice now, are much againſt the Grain:</l>
+                  <l>Yet One to be applauded has the luck,</l>
+                  <l>For his <hi>Exordium,</hi> who <hi>Cambyſes</hi> took.</l>
+                  <l>Thoſe ſine Atchievements, from Hiſtorians cull'd,</l>
+                  <l>For Excellencies long the People gull'd.</l>
+                  <l>A Thouſand Men like theſe are ſtill cry'd up,</l>
+                  <l>Ev'n in the Pulpit we may find a Fop;</l>
+                  <l>At eaſy Rates paſs Learned Men; I've heard,</l>
+                  <l>Works of this Nature ſwarm in <hi>Pauls-Church-Yard.</hi>
+                  </l>
+                  <l>And few ſo ſtupid are remaining yet,</l>
+                  <l>Who cannot Cart-loads on occaſion get.</l>
+                  <l>
+                     <hi>Glitt'ring Exordiums</hi> ſo with ſome have wrought,</l>
+                  <l>That from the <hi>ſubject</hi> they have turn'd their <hi>thought.</hi>
+                  </l>
+                  <l>
+                     <pb n="24" facs="tcp:59243:14"/>Their flights too lofty, in the foremoſt place,</l>
+                  <l>The flatneſs of what follows muſt diſgrace.</l>
+                  <l>Cloſe to Your Subject Matter ſtill provide,</l>
+                  <l>The whole Diſcourſe is to its Subject ty'd.</l>
+                  <l>Th' <hi>Exordium</hi> ended, Heav'n aſſiſtance ask;</l>
+                  <l>You t'as much purpoſe may omit the task,</l>
+                  <l>As make t'a Saint an eloquent addreſs:</l>
+                  <l>Upon Your Subject Your deſign expreſs.</l>
+                  <l>A Subject chuſe, You may begin and end;</l>
+                  <l>Yet promiſe not the Whole to comprehend.</l>
+                  <l>It often happens, when Your Hour is paſt,</l>
+                  <l>Much Subſtance to be Treated of does laſt;</l>
+                  <l>And You Your Spirits do but ſpend in Vain,</l>
+                  <l>When You'd a Weary'd Auditor detain.</l>
+                  <l>Keep to the Points which moſt material are,</l>
+                  <l>Which with Equality muſt diff'rence bear.</l>
+                  <l>
+                     <hi>Autitheſis</hi> did often Them divide;</l>
+                  <l>But Jingling Words are now quite laid aſide.</l>
+                  <l>
+                     <pb n="25" facs="tcp:59243:14"/>Solid and Flaſhy, are not coupled now,</l>
+                  <l>Sterling and Tinſel won't together go.</l>
+                  <l>Some Preacher may perhaps in Time contrive,</l>
+                  <l>Sermons may Chriſtian's Liberty revive:</l>
+                  <l>The Goſpel from ſtrict Laws and Cuſtomes freed;</l>
+                  <l>For which ador'd Antiquity does plead.</l>
+                  <l>Diviſion ſure the Antients never knew,</l>
+                  <l>Nor ever pinch't Themſelves, as we do now.</l>
+                  <l>Of Orators in <hi>Rome</hi> or <hi>Athens</hi> bred,</l>
+                  <l>It ne're ſo much as enter'd in the head:</l>
+                  <l>With Art their Subject, to divide, propos'd;</l>
+                  <l>The Members oppoſite, at firſt diſclos'd.</l>
+                  <l>Each point in'ts proper place it ſelf did ſhew;</l>
+                  <l>They without <hi>Coughing</hi> Firſt from Second knew.</l>
+                  <l>The Subject ſhould but one deſign include,</l>
+                  <l>Without Deviation be, or Pauſe purſu'd.</l>
+                  <l>Of Preachers, Unity's the Chiefeſt part,</l>
+                  <l>Who for One, muſt not Two Diſcourſes ſtart.</l>
+                  <l>
+                     <pb n="26" facs="tcp:59243:15"/>Thus long with the ſame Object entertain'd,</l>
+                  <l>Th' Impreſſion ſtronger on the Soul remain'd.</l>
+                  <l>The People left the Orator Alarm'd,</l>
+                  <l>Tyrannick Fury inſtantly diſarm'd.</l>
+                  <l>Strait <hi>Philip</hi> of his Army diſpoſſeſt,</l>
+                  <l>And gave <hi>Greece,</hi> in an uproar, preſent Reſt.</l>
+                  <l>But with Our <hi>Preacher,</hi> now, Invention fails;</l>
+                  <l>Diviſion moſt exceedingly prevails;</l>
+                  <l>On which he ſo affectedly does go,</l>
+                  <l>That with his Points his Matter's changed too.</l>
+                  <l>All Your <hi>Points</hi> ſhould one perfect <hi>Whole</hi> compoſe,</l>
+                  <l>Without <hi>Redundance,</hi> and Connected cloſe.</l>
+                  <l>Your Genius I'le not curb; I'd gladly ſee,</l>
+                  <l>If 'tis Your Talent, a bare Homily.</l>
+                  <l>The Goſpel-Truths to all Objectors, Solve,</l>
+                  <l>Which in Your mind at leiſure did revolve.</l>
+                  <l>The Fathers thus to Preach were underſtood;</l>
+                  <l>Schollars moſt deep, but for the Common Good.</l>
+                  <l>
+                     <pb n="27" facs="tcp:59243:15"/>Bleſt were our Times, ſh'd they ſuch <hi>Preachers</hi> bring;</l>
+                  <l>A Race of Saints might from their Sermons ſpring.</l>
+                  <l>Promiſcuouſly Them to hear would Crowd</l>
+                  <l>The Nobles, Gentry, and the Multitude.</l>
+                  <l>I'd quit my Pen, and bid my Art adieu,</l>
+                  <l>Which had however uſeleſs prov'd to You.</l>
+                  <l>I'th' front of Hearers for Inſtruction go,</l>
+                  <l>And at their Feet, my ſelf would proſtrate throw.</l>
+                  <l>Some no near Kin to Saints, the Pulpit mount;</l>
+                  <l>Of Thoſe I mean to give ſome ſmall Account:</l>
+                  <l>They're for my purpoſe; and perhaps, their Crimes</l>
+                  <l>May make my Verſes proper for the Times.</l>
+                  <l>If they will not the <hi>Reader</hi> influence,</l>
+                  <l>There's little to be ſaid in my defence.</l>
+                  <l>As I ſhall run Them o're, my Maxims mind;</l>
+                  <l>Shun ev'ry ſimilary Phraſe you find,</l>
+                  <l>Which on th' Analogy of Words but plays,</l>
+                  <l>And ſays the ſame Thing, varied, Twenty Ways.</l>
+                  <l>
+                     <pb n="28" facs="tcp:59243:16"/>Such taſteleſs-Plenty ſhews a Barren-Brain;</l>
+                  <l>But if with Eaſe You'd ev'ry Point retain,</l>
+                  <l>Unlade Your Cargo, Your great Maſs of Words,</l>
+                  <l>Good Thought moſt clear Expreſſion ſtill affords.</l>
+                  <l>Want of Expreſſion, want of Wit betrays,</l>
+                  <l>The Tongue our Underſtanding open lays:</l>
+                  <l>For when the Head conceives a Notion well,</l>
+                  <l>The Tongue as roundly does the Buſineſs tell.</l>
+                  <l>Your Stile and Matter care not to adorn;</l>
+                  <l>For We the Flouriſhes of Schollars ſcorn.</l>
+                  <l>To Rhetorick I never Fancy took;</l>
+                  <l>'Tis in my Nature, it to over-look.</l>
+                  <l>Words are but Letters joyn'd, our Thoughts to vent;</l>
+                  <l>But when the placing gives the Ornament,</l>
+                  <l>The whole Diſcourſe does but our mind amuſe,</l>
+                  <l>And we for Flow'rs do Fruit expected looſe.</l>
+                  <l>Let not the Paſſion of a Heart enrag'd,</l>
+                  <l>To be deſcribed be to Art engag'd.</l>
+                  <l>
+                     <pb n="29" facs="tcp:59243:16"/>
+                     <hi>Nature</hi> paints its own Agitations beſt,</l>
+                  <l>But does the Art of Varniſhing deteſt:</l>
+                  <l>Forbear that uſeful Art to Vilifie,</l>
+                  <l>Which Orators t' improve in Schools, do try.</l>
+                  <l>So careleſs let it ſeem from You to fall,</l>
+                  <l>As if You had not Study'd it at all.</l>
+                  <l>All over full of Matter, ſolid, clear,</l>
+                  <l>Your Unaffected <hi>Sermon</hi> does appear.</l>
+                  <l>And be upon Your Guard, t' avoid the Cheat,</l>
+                  <l>Which has the Shadow of a fine Conceit;</l>
+                  <l>W<hi rend="sup">ch.</hi> 
+                     <hi>true Light</hi> does, with glimmering, counterfeit.</l>
+                  <l>To ſearch the <hi>Truth,</hi> o're all the <hi>Scriptures</hi> range,</l>
+                  <l>Whoſe <hi>Natural Beauty</hi> loſes by the Change.</l>
+                  <l>Compoſing, You muſt vary your Diſcourſe;</l>
+                  <l>For ſome of Affectation, by meer Force,</l>
+                  <l>Will the ſame <hi>Method,</hi> the ſame <hi>Ways</hi> retain.</l>
+                  <l>— is an Example very plain:</l>
+                  <l>
+                     <pb n="30" facs="tcp:59243:17"/>For ev'ry <hi>Matter</hi> He alike does Treat;</l>
+                  <l>And He does ſtill make <hi>Three Points, Oppoſite,</hi>
+                  </l>
+                  <l>With Three <hi>Divided,</hi> in their Station, meet.</l>
+                  <l>This <hi>
+                        <g ref="char:V">Ʋ</g>niformity</hi> does tire me quite:</l>
+                  <l>So we a <hi>Painter</hi>'s feeble <hi>Genius</hi> ſlight.</l>
+                  <l>If the ſame <hi>Fancy</hi> in all Pieces reigns,</l>
+                  <l>And but one <hi>Shadow</hi> ſerves for all Deſigns;</l>
+                  <l>Such Daubing every <hi>Coppier</hi> may know:</l>
+                  <l>But neater Strokes an Able <hi>Maſter</hi> ſhow.</l>
+                  <l>He's ſtill the ſame, but with Variety;</l>
+                  <l>Diſcern'd by none, but a Judicious Eye.</l>
+                  <l>
+                     <hi>Diſcourſe</hi> Pathetick with the Glittering joyn;</l>
+                  <l>This will the Hearts of <hi>Auditors</hi> encline;</l>
+                  <l>And Men ſhall, unbeſpoke, themſelves reſign.</l>
+                  <l>Your <hi>Sermons</hi> their Fatigue ſhall take away,</l>
+                  <l>And make them, what they Tremble at, Obey.</l>
+                  <l>Of Times moſt proper, to Inſtruct take care;</l>
+                  <l>Speak boldly out, and no <hi>Tranſgreſſion</hi> ſpare:</l>
+                  <l>
+                     <pb n="31" facs="tcp:59243:17"/>Your <hi>Arguments</hi> will not fail to Edifie,</l>
+                  <l>Back't both with <hi>Reaſon</hi> and <hi>Authority.</hi>
+                  </l>
+                  <l>Avoid the <hi>School-men</hi>'s Language, Terms obſcure;</l>
+                  <l>Such <hi>Pedantries</hi> no <hi>Audience</hi> can endure.</l>
+               </lg>
+               <lg>
+                  <l>Sometimes a <hi>Pedant,</hi> at a <hi>County-Feaſt,</hi>
+                  </l>
+                  <l>May Pleaſe: And I was told, among the reſt,</l>
+                  <l>An Excellent <hi>Sermon</hi>—chanc'd to make;</l>
+                  <l>Which, for the very Plainneſs, would not Take.</l>
+                  <l>Againſt Him they excepted: But, ſays He,</l>
+                  <l>Be ſilent at a <hi>Feaſt?</hi> that cannot be.</l>
+                  <l>Next Time I doubt not, but to give Content.</l>
+                  <l>To keep his Word, was reſolutely bent:</l>
+                  <l>And for his Subject, choſe the <hi>Trinity.</hi>
+                  </l>
+                  <l>On which <hi>Myſterious Point</hi> He ſoar'd ſo high,</l>
+                  <l>On Words obſcure an <hi>Emphaſis</hi> He laid,</l>
+                  <l>So many Things about <hi>Subſiſtance</hi> ſaid,</l>
+                  <l>That of Terms learned, He a Gibb'riſh made.</l>
+                  <l>
+                     <pb n="32" facs="tcp:59243:18"/>He charm'd raw Heads, who nothing underſtood;</l>
+                  <l>
+                     <hi>Noiſe</hi> only raviſhes the unthinking <hi>Crowd.</hi>
+                  </l>
+                  <l>The Learned, skilful on your Side to get:</l>
+                  <l>If You do aim, and pleaſe the Men of Wit,</l>
+                  <l>And would at <hi>City-Lectures</hi> Females pleaſe;</l>
+                  <l>For there are, doubtleſs, <hi>Critiques</hi> amongſt Theſe,</l>
+                  <l>As well as Greater <hi>Ladies,</hi> were They try'd,</l>
+                  <l>Can <hi>Sermons</hi> judge, and other Things beſide;</l>
+                  <l>With neat Exactneſs ev'ry Thing expreſs,</l>
+                  <l>We from <hi>Philoſophy</hi> expect no leſs.</l>
+                  <l>When we <hi>Diſcourſes</hi> find of different Hue,</l>
+                  <l>We wiſh the <hi>Author</hi> ne're his <hi>Horn-Book</hi> knew.</l>
+                  <l>
+                     <hi>Latin Quotations</hi> were long ſince belov'd;</l>
+                  <l>And to have One at leaſt, is ſtill approv'd:</l>
+                  <l>But quite to be Aboliſh'd, is their Fate;</l>
+                  <l>All but plain <hi>Engliſh,</hi> now, are out of Date.</l>
+                  <l>To Pleaſe the <hi>Ladies,</hi> preſent Cuſtom has</l>
+                  <l>Brought <hi>Jeſus Chriſt</hi> to ſpeak the Modiſh Phraſe;</l>
+                  <l>
+                     <pb n="33" facs="tcp:59243:18"/>Which to make <hi>Him</hi> ſpeak, is as great Offence,</l>
+                  <l>As we t' uſe <hi>Scripture</hi> with Irreverence.</l>
+                  <l>Let your <hi>Diſcourſe</hi> be Rev'rently Polite:</l>
+                  <l>You may, in <hi>Latin, Allegations</hi> cite;</l>
+                  <l>
+                     <hi>Quotations</hi> cloſe, and ſhorteſt <hi>Merit</hi> praiſe;</l>
+                  <l>
+                     <hi>Variation</hi> will debaſe their Conſecrated Phraſe.</l>
+                  <l>If <hi>Latin</hi> be Your <hi>Text,</hi> no further ſeek;</l>
+                  <l>You muſt take other Meaſures for the <hi>Greek:</hi>
+                  </l>
+                  <l>
+                     <hi>Greek</hi> more does nauſeat, does not well agree;</l>
+                  <l>It ſmells rank of the <hi>
+                        <g ref="char:V">Ʋ</g>niverſity.</hi>
+                  </l>
+                  <l>Whatever from <hi>Greek Fathers</hi> You alledge,</l>
+                  <l>To tell in <hi>Engliſh,</hi> You have Priviledge.</l>
+                  <l>
+                     <hi>Words, Parſon,</hi> weigh not much; we <hi>Matter</hi> crave;</l>
+                  <l>Which pray diſpoſe Your ſelf, to let us have:</l>
+                  <l>For on his <hi>Words</hi> it is a <hi>Preacher</hi>'s Charge,</l>
+                  <l>To bring our Minds to Comment and Enlarge.</l>
+                  <l>But This, in vain, He thinks to bring about,</l>
+                  <l>If <hi>Learning</hi> only ſerves to help him out.</l>
+               </lg>
+               <lg>
+                  <pb n="34" facs="tcp:59243:19"/>
+                  <l>The <hi>Author</hi> was no Fool, who did Rehearſe</l>
+                  <l>Firſt to's <hi>Maid-ſervant</hi> all his Works in Verſe;</l>
+                  <l>A Critique, very ignorant, would endure,</l>
+                  <l>Rather than Publiſh but one <hi>Line,</hi> obſcure.</l>
+                  <l>This makes You rally, very pleaſant makes:</l>
+                  <l>He who <hi>Harangues</hi> in Publick undertakes,</l>
+                  <l>After our <hi>Author,</hi> muſt his Courſe direct,</l>
+                  <l>And ſhould on <hi>Human Ignorance</hi> reflect.</l>
+                  <l>Some ſay, That —is Learn'd and deep;</l>
+                  <l>Others, What makes him ſuch a Pudder keep?</l>
+                  <l>And though abandon'd, yet both Proud and Pert;</l>
+                  <l>Inceſſantly cries up his own <hi>Deſert:</hi>
+                  </l>
+                  <l>
+                     <hi>Deſertors</hi> He does <hi>Brutiſh Rabble</hi> ſtyle,</l>
+                  <l>And ſeems at their <hi>Stupidity</hi> to ſmile.</l>
+                  <l>It is not, if I know my ſelf, my Lot</l>
+                  <l>To gratifie the Taſte of ev'ry <hi>Sot;</hi>
+                  </l>
+                  <l>A Wiſer <hi>Audience</hi> muſt for Me be got.</l>
+                  <l>
+                     <pb n="35" facs="tcp:59243:19"/>This bald Excuſe to <hi>Fifty</hi> does belong;</l>
+                  <l>The <hi>Audience</hi> muſt be always in the Wrong.</l>
+               </lg>
+               <lg>
+                  <l>But, <hi>Parſon,</hi> You're deceiv'd in this Diſpute;</l>
+                  <l>For I can make You Your own ſelf Confute,</l>
+                  <l>And ſhew, why You're of <hi>Hearers</hi> deſtitute.</l>
+                  <l>Reſolve on Silence, and the <hi>Trade</hi> to quit,</l>
+                  <l>For <hi>Vulgar <g ref="char:V">Ʋ</g>nderſtandings</hi> if unfit.</l>
+                  <l>The <hi>Vulgar?</hi> No. <hi>Great Men</hi> ſhall be my Care.</l>
+                  <l>That is, according as They <hi>Sinners</hi> are:</l>
+                  <l>The <hi>
+                        <g ref="char:V">Ʋ</g>ſeful Science</hi> is, as we are told,</l>
+                  <l>The <hi>Myſtery</hi> of <hi>Deadly Sin</hi> t' unfold.</l>
+                  <l>The <hi>Sinner</hi> always Ignorance does plead;</l>
+                  <l>Your <hi>Learning</hi> ſerves for Him alone indeed.</l>
+                  <l>Each <hi>Paſſage</hi> pick, each <hi>Reaſon</hi> well deduce;</l>
+                  <l>Form Noble, Great <hi>Ideas</hi> to the <hi>Mind:</hi>
+                  </l>
+                  <l>Theſe <hi>Hearers</hi> will, of ev'ry ſort, produce;</l>
+                  <l>The <hi>Art</hi> They can't diſcern, their <hi>Hearts</hi> will find.</l>
+                  <l>
+                     <pb n="36" facs="tcp:59243:20"/>They ask not why or how a <hi>Work</hi> is Good?</l>
+                  <l>By Them 'tis <hi>Reliſh't,</hi> as 'tis <hi>
+                        <g ref="char:V">Ʋ</g>nderſtood.</hi>
+                  </l>
+                  <l>'Tis <hi>Good,</hi> and They're <hi>Attentive;</hi> That's enough:</l>
+                  <l>With Them a <hi>Good Diſcourſe</hi> ne're came ill off.</l>
+               </lg>
+               <lg>
+                  <l>But <hi>You,</hi> whoſe Wit, Train'd up in <hi>Sciences,</hi>
+                  </l>
+                  <l>Can well diſtinguiſh betwixt all Degrees:</l>
+                  <l>
+                     <hi>Confuſion</hi> ſhun! We'd by Diſtinction ſee</l>
+                  <l>
+                     <hi>Better</hi> from <hi>Good;</hi> from <hi>Good, Mediocrity.</hi>
+                  </l>
+                  <l>All <hi>Orators,</hi> by Labour, are Refin'd.</l>
+                  <l>Imperfect <hi>Talents</hi> ſhould not <hi>Pulpit</hi> mount;</l>
+                  <l>For leſs than <hi>Excellent,</hi> is of no Account.</l>
+                  <l>Your <hi>Genius</hi> to advance, Your Forces weigh;</l>
+                  <l>
+                     <hi>Ambition</hi> does an <hi>Orator</hi> betray.</l>
+                  <l>Of his Firſt <hi>Sermon,</hi> He th' Opinion has,</l>
+                  <l>It does—ſurpaſs.</l>
+                  <l>Know Your ſelf Better, and more Cautious be;</l>
+                  <l>To Your own <hi>Works,</hi> try to turn Enemy.</l>
+                  <l>
+                     <pb n="37" facs="tcp:59243:20"/>Much more Content <hi>Mediocrity</hi> does give,</l>
+                  <l>So we can call't our own, and Primitive,</l>
+                  <l>Than what from Greater <hi>Authors</hi> we derive.</l>
+                  <l>The ſhameful Scandal of no <hi>Genius</hi> ſhun;</l>
+                  <l>And try to ſhew Us ſomething of Your Own.</l>
+                  <l>Give not the World occaſion You to call,</l>
+                  <l>
+                     <hi>Ill Copy of a Good Original.</hi>
+                  </l>
+                  <l>From Beſt of <hi>Preachers</hi> do proceed the Worſt,</l>
+                  <l>When They've to Imitate, their <hi>Talents</hi> forc't.</l>
+                  <l>Of late, the <hi>Pedants Trible</hi> is numerous grown,</l>
+                  <l>Who with <hi>Inſipid Drafts</hi> have tir'd the <hi>Town:</hi>
+                  </l>
+                  <l>Whil'ſt One Thoſe to Correct has done his Part,</l>
+                  <l>And skilfully has drawn the Perfect <hi>Heart.</hi>
+                  </l>
+                  <l>Who can but Imitate, can never Pleaſe;</l>
+                  <l>Theirs to <hi>Purloining,</hi> is the next Diſeaſe.</l>
+                  <l>Of them there is a Bold and Lazy <hi>Tribe,</hi>
+                  </l>
+                  <l>Who for their Own, Preach all they can <hi>Tranſcribe.</hi>
+                  </l>
+                  <l>
+                     <pb n="38" facs="tcp:59243:21"/>In <hi>England,</hi> there are many Hundred Men,</l>
+                  <l>Who owe their <hi>Eloquence</hi> to their Neighbour's Pen.</l>
+                  <l>How many hear we Preaching, Fifty Mile</l>
+                  <l>From <hi>London,</hi> that do dwell There all the while.</l>
+                  <l>Great <hi>Preachers</hi> ill Fate often does befall:</l>
+                  <l>Though—moves the Conſcience at <hi>White-hall,</hi>
+                  </l>
+                  <l>The <hi>Goſpel</hi> teaches, and <hi>Vice</hi> over-rules,</l>
+                  <l>He's leſs than Nothing in the Mouth of <hi>Fools.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Parſon,</hi> Your <hi>Sermon</hi> to Your <hi>Learning</hi> owe,</l>
+                  <l>And ſolid <hi>Senſe</hi> on Your <hi>Diſcourſe</hi> beſtow.</l>
+                  <l>Some times You may, with <hi>Similies,</hi> enforce</l>
+                  <l>Your <hi>Reaſons,</hi> and with <hi>Hiſtory</hi> Your <hi>Diſcourſe.</hi>
+                  </l>
+                  <l>Think not with over Delicacy blind,</l>
+                  <l>That This will argue Meanneſs of the <hi>Mind.</hi>
+                  </l>
+                  <l>Though Theſe the Nicer ſort, deluded, ſcorn;</l>
+                  <l>The Style ſublime they frequently adorn.</l>
+                  <l>A <hi>Fable</hi> once well manag'd, did produce,</l>
+                  <l>Though Ratify'd, the Rupture of a <hi>Truce.</hi>
+                  </l>
+                  <l>
+                     <pb n="39" facs="tcp:59243:21"/>The <hi>Orator,</hi> who well his <hi>Art</hi> did know,</l>
+                  <l>Thought not he took his <hi>Simile</hi> too low.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Parſon,</hi> All's Admirable, could we find</l>
+                  <l>
+                     <hi>Prudence,</hi> and <hi>Zeal</hi> to <hi>Eloquence</hi> conjoyn'd.</l>
+                  <l>Preach You but well, All ſhall be Heard by Me;</l>
+                  <l>And Pardon'd, if I'm in an Ecſtaſie.</l>
+                  <l>To that Effect we ſhould Aſpire in vain,</l>
+                  <l>If the <hi>Concluſion</hi> don't the <hi>Point</hi> maintain.</l>
+                  <l>Learn to Conclude, if You would learn to Move;</l>
+                  <l>Forces, in th' End, united ſtronger prove.</l>
+                  <l>Your <hi>Matter</hi> You for Him ſhould briefly cloſe,</l>
+                  <l>Who does your Total <hi>Victory</hi> oppoſe.</l>
+                  <l>Then back your Strongeſt <hi>Arguments</hi> recall:</l>
+                  <l>But leſt You into <hi>Tediouſneſs</hi> ſhould fall,</l>
+                  <l>
+                     <hi>Hints</hi> will do better. <hi>Repetitions</hi> ſhun;</l>
+                  <l>And do not your Preſcribed Bounds out-run.</l>
+                  <l>Your <hi>Hearer</hi> make, with deep Regret, retire,</l>
+                  <l>Full of your <hi>Works,</hi> that fan <hi>Devotion</hi>'s Fire:</l>
+                  <l>
+                     <pb n="40" facs="tcp:59243:22"/>Then with deep Silence, and with Eyes down-caſt,</l>
+                  <l>To <hi>Voluntary Penitence</hi> in haſte</l>
+                  <l>He runs, and blames the <hi>Time</hi> without it paſt:</l>
+                  <l>Incens'd, that He ſo long had truſted <hi>Fate,</hi>
+                  </l>
+                  <l>
+                     <hi>Death-bed Contrition</hi> to Anticipate;</l>
+                  <l>Leſt it ſhould ſeem Conſtrain'd, if come ſo late.</l>
+                  <l>By <hi>Meditation</hi> deep, on <hi>Faith</hi> may learn</l>
+                  <l>At what Expence, what Pains Men <hi>Bliſs</hi> muſt earn.</l>
+                  <l>Then, ſhall he judge, juſtly become ſevere;</l>
+                  <l>
+                     <hi>Diverſions,</hi> indiſcreet, are bought too dear.</l>
+                  <l>To <hi>Hide-Park,</hi> and Balls, no <hi>Ogling Ladies</hi> trudge;</l>
+                  <l>Henceforth no <hi>Poet</hi> ſhall for <hi>Play-houſe</hi> drudge:</l>
+                  <l>No more ſhall <hi>Gameſter</hi>'s Precious Time be ſold</l>
+                  <l>To flattering Hopes, and ſacred Thirſt of <hi>Gold.</hi>
+                  </l>
+                  <l>Nor <hi>Love</hi> on <hi>Youth</hi> more Miracles ſhall ſhew;</l>
+                  <l>Vaunting its Force, and <hi>Lover</hi>'s Weakneſs too.</l>
+                  <l>'Twill be by th'uſeleſs <hi>Chriſtian</hi> underſtood,</l>
+                  <l>He's guilty of much <hi>Ill,</hi> who does no <hi>Good:</hi>
+                  </l>
+                  <l>
+                     <pb n="41" facs="tcp:59243:22"/>Who'll ſoon perceive, that <hi>Miſpent Time</hi> will mount,</l>
+                  <l>To which he's bound to make a large Account.</l>
+                  <l>This <hi>Alteration</hi> in your <hi>Hearers</hi> make;</l>
+                  <l>At leaſt, to bring't about, the <hi>Method</hi> take.</l>
+                  <l>The <hi>World</hi> is Confident, and Poſitive,</l>
+                  <l>Tho' we to Preach, with all our Forces ſtrive,</l>
+                  <l>That this <hi>Stupendious Change</hi> will ne're arrive:</l>
+                  <l>And all your <hi>Fervency,</hi> and <hi>Zeal,</hi> is vain;</l>
+                  <l>For <hi>Man,</hi> Convinced, will Rebel again.</l>
+                  <l>Alike Your <hi>Sermons,</hi> and My <hi>Verſes</hi> do;</l>
+                  <l>Yours are on Them, and Mine are loſt on You.</l>
+               </lg>
+            </div>
+            <div n="3" type="canticle">
+               <head>Cant. III.</head>
+               <pb n="42" facs="tcp:59243:23"/>
+               <lg>
+                  <l>AN Unconceited <hi>Writer</hi> I reſpect,</l>
+                  <l>Whoſe Pen is always eager to Correct.</l>
+                  <l>Your <hi>Sermons</hi> rigorous Correction need;</l>
+                  <l>This Place You think in Nobleneſs t' exceed.</l>
+                  <l>The <hi>Manner</hi> Charming, the <hi>Expreſſion</hi> bold;</l>
+                  <l>Your <hi>Genius</hi> hatch't it; and you're pleas'd, I'm told:</l>
+                  <l>Which Twenty times, at leaſt, You do Repeat;</l>
+                  <l>And ſtill ſtarts up ſome New, or fine Conceit.</l>
+                  <l>That flattering, blinding Pleaſure apprehend;</l>
+                  <l>Publiſh it not, till view'd o're by your <hi>Friend:</hi>
+                  </l>
+                  <l>And cloſely watch the <hi>Geſtures</hi> of Him too,</l>
+                  <l>Whether That Place delighted Him, or no:</l>
+                  <l>
+                     <pb n="43" facs="tcp:59243:23"/>If not, Retrench it; and, before his Eyes,</l>
+                  <l>Let your <hi>Dear Idol</hi> fall a Sacrifice.</l>
+                  <l>Of all Things, ſhun a <hi>Cenſurer</hi>'s Diſdains;</l>
+                  <l>Be Pliant, and deſerve his uſeful Pains.</l>
+                  <l>But think him not your <hi>Friend,</hi> who cries <hi>Take Care;</hi>
+                  </l>
+                  <l>And for a <hi>Critique,</hi> of a <hi>Fool</hi> beware.</l>
+                  <l>You need a <hi>Cenſurer</hi> no further Truſt,</l>
+                  <l>Than he Inſtructs You, and You find him Juſt:</l>
+                  <l>But when his <hi>Reaſons</hi> have Convinced yours,</l>
+                  <l>The <hi>Truth</hi> Embrace, and its Reſiſtleſs Pow'rs.</l>
+                  <l>Men bluſh not to give <hi>Reaſon</hi> the Right Hand;</l>
+                  <l>But at a <hi>Panegyrick,</hi> Trembling ſtand.</l>
+                  <l>Of thoſe <hi>Impoſtures,</hi> the Rank Poyſon fear;</l>
+                  <l>
+                     <hi>Praiſe</hi> pleaſes You, it plainly does appear:</l>
+                  <l>And You ſhall have from every one enough;</l>
+                  <l>Some to be kind, will Praiſe You, moſt to ſcoff.</l>
+                  <l>Your <hi>Enemies,</hi> like <hi>Friends,</hi> have Complaiſance;</l>
+                  <l>And Both together joyn, your Faults t' enhance.</l>
+               </lg>
+               <lg>
+                  <pb n="44" facs="tcp:59243:24"/>
+                  <l>Once <hi>Benſon</hi> Preach'd, (where I devoutly went)</l>
+                  <l>Beſpoke his <hi>Congregation</hi> to Augment:</l>
+                  <l>Scarce had He whining, with a School-Boy's Tone,</l>
+                  <l>And quaking Limbs, his whole <hi>Exordium</hi> done,</l>
+                  <l>But Stammezs, Heſitates, and is quite out;</l>
+                  <l>Then for his <hi>Notes</hi> he ſearches all about:</l>
+                  <l>Which having, at a Time ſo fatal, loſt,</l>
+                  <l>Says any Thing next that comes uppermoſt:</l>
+                  <l>Like <hi>Marriner,</hi> having his Compaſs loſt,</l>
+                  <l>At all Adventures, up and down is toſt.</l>
+                  <l>I was afflicted to perceive Him ſo;</l>
+                  <l>And when He Trembled, I did Tremble too.</l>
+                  <l>Half ſunk, at laſt, his Treacherous <hi>Memory</hi>
+                  </l>
+                  <l>On the Plank caſts Him off <hi>Eternity.</hi>
+                  </l>
+                  <l>There he Concludes: But, as I marcht away,</l>
+                  <l>Won't You, ſays One, t' Congratulate him, ſtay?</l>
+                  <l>I, out of Breath, to make Reſiſtance ſtrove;</l>
+                  <l>But was, by Force, into his Chamber drove:</l>
+                  <l>
+                     <pb n="45" facs="tcp:59243:24"/>There <hi>Benſon</hi> lolling on a Couch, I found;</l>
+                  <l>Whom ſeveral ſoothing <hi>Coxcombs</hi> did ſurround:</l>
+                  <l>He kindly the <hi>Fool's Complements</hi> receiv'd;</l>
+                  <l>For All he ſwallow'd, None were disbeliev'd.</l>
+                  <l>
+                     <hi>Jeſus,</hi> ſays One, the <hi>Sermon</hi> Curious was:</l>
+                  <l>Your <hi>Memory</hi> does all Mens elſe ſurpaſs.</l>
+                  <l>Another, in plain <hi>Engliſh,</hi> That is Good,</l>
+                  <l>Which to be ſo, by All is underſtood.</l>
+                  <l>Then, fauningly, Embracing him; My Dear,</l>
+                  <l>Says He, You out-do—I ſwear:</l>
+                  <l>Leſs Exact—Leſs Delicate;</l>
+                  <l>Leſs Elegant—and leſs Charming—</l>
+                  <l>The Good Man, 'midſt his <hi>Glories,</hi> did not fail,</l>
+                  <l>With Modeſty, his <hi>Memory</hi> to bewail;</l>
+                  <l>And 'bating the few <hi>Stumbles</hi> which He made,</l>
+                  <l>One of his Beſt the <hi>Sermon</hi> was, He ſaid.</l>
+                  <l>Then I can't tell, <hi>Sir,</hi> what You <hi>Stumbling</hi> call;</l>
+                  <l>But, by my <hi>Faith,</hi> You Stumbled not at all:</l>
+                  <l>
+                     <pb n="46" facs="tcp:59243:25"/>He lies, that ſays You did. I ſwear again,</l>
+                  <l>You of your <hi>Mem'ry,</hi> without Cauſe, complain.</l>
+                  <l>Your <hi>Memory</hi> for once Defective grant?</l>
+                  <l>That but demonſtrates, You no <hi>Wit</hi> do want.</l>
+                  <l>At that Diſcourſe, <hi>Benſon</hi> cheers up again;</l>
+                  <l>No longer can to Praiſe himſelf, contain:</l>
+                  <l>For ſoothing <hi>Words,</hi> which do afford <hi>Relief,</hi>
+                  </l>
+                  <l>He'll not pay back his <hi>Friends</hi> with <hi>
+                        <g ref="char:V">Ʋ</g>nbelief.</hi>
+                  </l>
+                  <l>You might a Wager venture, choſen He</l>
+                  <l>Would for a <hi>Viſitation-Sermon</hi> be.</l>
+                  <l>My ſelf I into a Cloſe Corner got;</l>
+                  <l>And Bluſh't, to ſee the <hi>Company</hi> did not.</l>
+                  <l>I by my ſneaking, down-caſt Look might paſs,</l>
+                  <l>Of all that <hi>Gang,</hi> to be the only <hi>Aſs,</hi>
+                  </l>
+                  <l>At laſt, broke looſe, I wiſh't the Devil, and all</l>
+                  <l>Plagues might on <hi>Benſon,</hi> and his <hi>Flatterers,</hi> fall.</l>
+                  <l>
+                     <hi>Self-Flattery</hi> all bewitches of That <hi>Trade;</hi>
+                  </l>
+                  <l>Ill <hi>Preacher</hi>'s Blemiſhes are Publick made:</l>
+                  <l>
+                     <pb n="47" facs="tcp:59243:25"/>'Gainſt Them, when <hi>Auditors</hi> in Judgment riſe,</l>
+                  <l>Some <hi>Flatterer</hi> at a dead Lift ſupplies.</l>
+                  <l>Let ſuch as Theſe his Confidence maintain,</l>
+                  <l>He will to yield to <hi>Orators</hi> diſdain;</l>
+                  <l>And will the <hi>World,</hi> Blind as <hi>Himſelf,</hi> perſwade,</l>
+                  <l>Thoſe follow Him He has <hi>Deſertors</hi> made.</l>
+                  <l>Theſe Shamms are ev'ry Day in <hi>London</hi> ſeen;</l>
+                  <l>Which, when I mention, I know who I mean:</l>
+                  <l>
+                     <hi>Names</hi> I ſhall ſpare, ſince Men themſelves perſwade</l>
+                  <l>They are <hi>Infallible</hi> in their own <hi>Trade.</hi>
+                  </l>
+                  <l>Wou'd you be ſure t'know how your <hi>Sermons</hi> pleaſe?</l>
+                  <l>Cloſely obſerve the <hi>People</hi>'s Viſages:</l>
+                  <l>They the <hi>Intrinſick Value</hi> will Reveal;</l>
+                  <l>What <hi>charms</hi> their <hi>hearts,</hi> their <hi>eyes</hi> will ne'r conceal.</l>
+                  <l>Mark well thoſe Places, where the Longing <hi>Town</hi>
+                  </l>
+                  <l>Their <hi>Ears,</hi> reſigning to your <hi>Voice,</hi> bow down;</l>
+                  <l>Where, when their <hi>Bodies</hi> ſixt, like Statues are,</l>
+                  <l>Their greedy <hi>Eyes</hi> their <hi>Heart</hi>'s Delight declare.</l>
+                  <l>
+                     <pb n="48" facs="tcp:59243:26"/>This Proof alone ſuffices to maintain,</l>
+                  <l>Theſe <hi>Points</hi> are Beſt, which moſt <hi>Attention</hi> gain;</l>
+                  <l>For when the <hi>Voice</hi> does Influence the <hi>Ear,</hi>
+                  </l>
+                  <l>The <hi>Heart</hi> an equal Influence does ſhare:</l>
+                  <l>Yet You thoſe Places, for the worſt, condemn;</l>
+                  <l>And ſay, The reſt have far more Wit than <hi>Them;</hi>
+                  </l>
+                  <l>Are better Turn'd, more Charming, more Polite.</l>
+                  <l>Let <hi>Theſe</hi> the Rule to all your <hi>Sermons</hi> give;</l>
+                  <l>
+                     <hi>Thoſe</hi> Careleſly are done, but Well, <hi>Sir,</hi> by your leave.</l>
+                  <l>If at the main End of your <hi>Trade</hi> you drive,</l>
+                  <l>On your Own Self to be a <hi>Critique</hi> ſtrive:</l>
+                  <l>For <hi>Friends,</hi> where Kiſſing does by Favour go,</l>
+                  <l>Reject, and our Wiſe <hi>Author</hi>'s Rule purſue.</l>
+                  <l>In Preaching, You muſt ſay, <hi>Vice</hi> I'll beat down,</l>
+                  <l>And level, with the Earth, its pow'rful Throne.</l>
+                  <l>What would be ſaid by <hi>Paul,</hi> or <hi>Chryſoſtom,</hi>
+                  </l>
+                  <l>If They ſhould <hi>Hearers</hi> to my <hi>Sermons</hi> come?</l>
+                  <l>
+                     <pb n="49" facs="tcp:59243:26"/>Did thus Hell's Spight to <hi>Them,</hi> confounded, yield?</l>
+                  <l>Was <hi>Paul</hi> Tryumphant thus in <hi>Mars</hi> his Field?</l>
+                  <l>Did <hi>Chryſoſtom</hi> the <hi>Miſer</hi> thus perſwade,</l>
+                  <l>When over to the <hi>Poor</hi> his <hi>Wealth</hi> he made?</l>
+                  <l>Thoſe <hi>Noble Models</hi> keep before your Eyes;</l>
+                  <l>Their <hi>Works</hi> their <hi>Voices</hi> do Immortalize.</l>
+                  <l>In Reading <hi>Them,</hi> find out Their <hi>Pow'r</hi> Divine:</l>
+                  <l>From <hi>Him</hi> who Theirs beſtow'd, obtain thou <hi>Thine.</hi>
+                  </l>
+                  <l>Do, as They did: Always before your <hi>Pray'r,</hi>
+                  </l>
+                  <l>The <hi>Subject</hi> you'll Proceed upon, declare.</l>
+                  <l>Then <hi>Heav'n</hi> Implore, You to Illuminate;</l>
+                  <l>And We'll <hi>Digeſt</hi> on what You <hi>Meditate.</hi>
+                  </l>
+                  <l>Take Time enough, and well Your ſelf Prepare;</l>
+                  <l>But Raſh, <hi>Extempore Sermons,</hi> pray forbear:</l>
+                  <l>Unleſs on ſome unlook't-for <hi>Exigent,</hi>
+                  </l>
+                  <l>You could a <hi>Congregation</hi>'s Loſs prevent;</l>
+                  <l>Concluding what <hi>Another</hi> had Begun,</l>
+                  <l>As if the Choice of <hi>Subject</hi> was your Own:</l>
+                  <l>
+                     <pb n="50" facs="tcp:59243:27"/>On the ſame Points, divided, to the laſt,</l>
+                  <l>
+                     <hi>Sequels</hi> deduce the Other had fore-caſt;</l>
+                  <l>In that Caſe, You <hi>Extempore</hi> may Preach;</l>
+                  <l>But muſt not, otherwiſe, your <hi>Talent</hi> ſtretch.</l>
+                  <l>Count not the Time your <hi>Sermon</hi> making coſt;</l>
+                  <l>Merit it be not on the <hi>Hearers</hi> loſt.</l>
+                  <l>In all your Subjects, chooſe the <hi>Better Part;</hi>
+                  </l>
+                  <l>To chooſe diſcreetly, <hi>Reaſon,</hi> with your <hi>Heart:</hi>
+                  </l>
+                  <l>For what in <hi>Reaſon</hi> moves, and pleaſes You,</l>
+                  <l>By the ſame <hi>Reaſon,</hi> muſt pleaſe Others too.</l>
+                  <l>Hence the Deſigns of all your <hi>Sermons</hi> lay:</l>
+                  <l>On Different <hi>Theams</hi> chooſe an Indifferent <hi>Way:</hi>
+                  </l>
+                  <l>Here an <hi>Encomium,</hi> There a <hi>Myſtery;</hi>
+                  </l>
+                  <l>Here <hi>Sinners</hi> muſt, by ſharp <hi>Invectives,</hi> ſmart;</l>
+                  <l>All diff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rently muſt be Toucht; yet All with <hi>Art.</hi>
+                  </l>
+                  <l>If to the Purpoſe, <hi>Morals</hi> you'd Exhort,</l>
+                  <l>Then ſtudy well the <hi>City,</hi> and the <hi>Court:</hi>
+                  </l>
+                  <l>
+                     <pb n="51" facs="tcp:59243:27"/>Do not a <hi>Merchant,</hi> like a <hi>Lord,</hi> diſguiſe;</l>
+                  <l>Nor ſet on <hi>Subjects, Royal Qualities.</hi>
+                  </l>
+                  <l>Make Greedy <hi>Citizens</hi> for Riches yawn;</l>
+                  <l>Paint <hi>Lords</hi> Fantaſtick, and make <hi>Courtiers</hi> Fawn:</l>
+                  <l>Yet, <hi>Parſon,</hi> have a care, while You Correct,</l>
+                  <l>
+                     <hi>Vices,</hi> leſt We <hi>Philoſophy</hi> detect,</l>
+                  <l>When We do pure <hi>Chriſtianity</hi> expect.</l>
+                  <l>The <hi>Chair</hi> from <hi>Heatheniſh Vertues</hi> is exempt;</l>
+                  <l>And Nothing, in their Praiſe, ſhould You attempt,</l>
+                  <l>Unleſs with <hi>True Religion</hi> burniſh'd o're;</l>
+                  <l>And <hi>Chriſtian</hi> turn, what <hi>Pagan</hi> was before.</l>
+                  <l>Let Them, at their Diſcretion, <hi>Juſtice</hi> teach;</l>
+                  <l>
+                     <hi>Humility</hi> You, with St. <hi>Paul,</hi> ſhould Preach.</l>
+                  <l>From worthleſs <hi>Honeſty</hi> alone, deſiſt;</l>
+                  <l>And on the <hi>Juſt</hi> impoſe the <hi>Croſs of Chriſt.</hi>
+                  </l>
+                  <l>Paint not <hi>Men</hi> but what they really are;</l>
+                  <l>Attack not <hi>Vices,</hi> which are very rare:</l>
+                  <l>
+                     <pb n="52" facs="tcp:59243:28"/>Thoſe <hi>tricks</hi> are amongſt <hi>Preachers</hi> common grown,</l>
+                  <l>Who ſet up <hi>Whimſies,</hi> but to pull 'em down.</l>
+                  <l>His Strokes all miſs, and He, in vain, aſſaults;</l>
+                  <l>Of different People, paint the different Faults.</l>
+                  <l>Mind not the <hi>Fool,</hi> who o're the Country roves,</l>
+                  <l>Reforming <hi>Great Men</hi>'s Tables, and their Train;</l>
+                  <l>
+                     <hi>Verrio</hi>'s ſine <hi>Ceelings, Gibbon</hi>'s carv'd <hi>Alcoves;</hi>
+                  </l>
+                  <l>Names, which the <hi>Ign'rant Audience</hi> can't retain.</l>
+                  <l>In all your Drafts, let <hi>Nature</hi> coppy'd be;</l>
+                  <l>That We the <hi>Heart</hi> may, through the Picture, ſee:</l>
+                  <l>But too plain <hi>Colours,</hi> prudently forbear;</l>
+                  <l>Name not the <hi>Sinner</hi> in the <hi>Character.</hi>
+                  </l>
+                  <l>Let not the Pulpit <hi>Satyrs</hi> e're infeſt,</l>
+                  <l>For fear <hi>Damnation</hi> ſhould attend the Jeſt.</l>
+                  <l>Shun <hi>Rhetorick,</hi> which Improvement does bereave,</l>
+                  <l>And does our <hi>Mind</hi> but juſt diverted, leave.</l>
+                  <l>Preaching thus—does the World content;</l>
+                  <l>Yet They return no Wiſer, than They went.</l>
+                  <l>
+                     <pb n="53" facs="tcp:59243:28"/>All This is vain: 'Tis not a <hi>Preacher</hi>'s Part,</l>
+                  <l>To Pleaſe the <hi>Mind,</hi> unleſs He Strike the <hi>Heart.</hi>
+                  </l>
+                  <l>Jumbled together, Pieces different,</l>
+                  <l>By blind Chance, into One of large Extent,</l>
+                  <l>The <hi>Sermon</hi> to our Senſes does preſent:</l>
+                  <l>Where He ſhould ſix his doubtful <hi>Mind,</hi> can't tell;</l>
+                  <l>Yet He's conceited, that He Preaches well.</l>
+                  <l>When one by one, the Frailties of the <hi>Heart,</hi>
+                  </l>
+                  <l>
+                     <hi>Mirth, Honour, Vanity,</hi> He does impart;</l>
+                  <l>At random, to his <hi>Sermons,</hi> All comes in:</l>
+                  <l>No <hi>Grounds,</hi> no <hi>Art,</hi> no <hi>Proofs,</hi> or very Thin.</l>
+                  <l>By <hi>Inference</hi> He Matters running o're,</l>
+                  <l>With too much Light but blinds my <hi>Eyes</hi> the more.</l>
+                  <l>When of Thoſe, He preſents, among the reſt,</l>
+                  <l>I on that <hi>Object</hi> ſix, that Pleaſes beſt;</l>
+                  <l>Strait comes Another, which does drive That out:</l>
+                  <l>From This, to That, He wanders ſtill about.</l>
+                  <l>
+                     <pb n="54" facs="tcp:59243:29"/>The <hi>Mind</hi> can hardly what He ſays, retain;</l>
+                  <l>The <hi>Heart</hi> grown tir'd, the <hi>Mind</hi> purſues in vain.</l>
+                  <l>Sometimes confines his <hi>Matter</hi> to a few;</l>
+                  <l>And what He blames, affected does purſue.</l>
+                  <l>Proud in his very <hi>Sermons</hi> to expoſe,</l>
+                  <l>That of the <hi>World</hi> the Ways, and Faſhions knows;</l>
+                  <l>
+                     <hi>Jilts,</hi> and <hi>Intrigues,</hi> He ſticks not to diſcloſe.</l>
+                  <l>The Ordering of a <hi>Ball,</hi> exactly paints;</l>
+                  <l>In proper Terms to ſcandalize, acquaints.</l>
+                  <l>The Art to Pleaſe at <hi>Court,</hi> He does abridge;</l>
+                  <l>And likely too, to lay an <hi>Amorous Seige.</hi>
+                  </l>
+                  <l>Prophane Interpreter of Vile Intrigues,</l>
+                  <l>Blaming and Loving <hi>Vice,</hi> creates Colleagues.</l>
+                  <l>The <hi>Vice</hi> he would Explode, he makes belov'd;</l>
+                  <l>Or at his own Expence, is Laughter mov'd.</l>
+                  <l>In Preaching then, think of your latter End:</l>
+                  <l>For with ſuch Crimes a Sinner may offend,</l>
+                  <l>Whoſe Ign'rance does a <hi>Preacher</hi> recommend.</l>
+                  <l>
+                     <pb n="55" facs="tcp:59243:29"/>Or if 'tis requiſite, He ſhould know All;</l>
+                  <l>Diſcretion will not Ev'ry thing let fall.</l>
+                  <l>Let Vices Image be ſo neatly wrought,</l>
+                  <l>It may diſturb the Heart, not wound the Thought.</l>
+                  <l>Make not the Innocent Cheeks with Bluſhing glow,</l>
+                  <l>Of deadly Crimes only the Horrour ſhow:</l>
+                  <l>Vice with Art Painted, is not much at beſt,</l>
+                  <l>The Loathſom Sight my Heart muſt needs deteſt.</l>
+                  <l>Paint it as fatal, fooliſh as you pleaſe:</l>
+                  <l>So you produce the Cure for the Diſeaſe.</l>
+                  <l>Moſt Wretched, Brutal, Infamous am I,</l>
+                  <l>The Sinner to th' Accuſer can reply.</l>
+                  <l>You plainly read my Heart, and by 't are told,</l>
+                  <l>That in your Pictures, I that Heart behold.</l>
+                  <l>I am a ſinner, Great and Greivous too;</l>
+                  <l>Why repeat you what I already know?</l>
+                  <l>Then pray no more the Argument renew?</l>
+                  <l>I know my Own Sins better far than you:</l>
+                  <l>
+                     <pb n="56" facs="tcp:59243:30"/>But 'twill not ſerve Our Miſeries to confeſs.</l>
+                  <l>The Vertue Contrary muſt them redreſs.</l>
+                  <l>To graſp that Knowledg, bring my Clouded Mind,</l>
+                  <l>Of Sinners make my feet the new Road find.</l>
+                  <l>This from your Preaching is to Sinners due,</l>
+                  <l>Till They Inſtructed are, Depart not you:</l>
+                  <l>To Crimes add Counſel which deſcribed are,</l>
+                  <l>Juſt on the Wound the Plaiſter lay with care.</l>
+                  <l>Open, and cloſe your Lips, make his Concerns,</l>
+                  <l>The Sinner at ill uſage chafes and ſpurns;</l>
+                  <l>Him Gently Treat, Sick Men in Frenzy took,</l>
+                  <l>On their Phyſitians do as Ruffians look:</l>
+                  <l>But chiefly if for Church your Zealous rage,</l>
+                  <l>Makes you againſt Fanaticiſm engage:</l>
+                  <l>Let not the <hi>Whigg</hi> want of Reſpect reſent,</l>
+                  <l>A Combatant ſhould not grow inſolent.</l>
+                  <l>Againſt Impoſtures Charity does Arm,</l>
+                  <l>Seeks to repell, but not to offer harm.</l>
+                  <l>
+                     <pb n="57" facs="tcp:59243:30"/>The Zealous Chriſtian does from wrongs refrain,</l>
+                  <l>He blames the Sin, but would the Sinner gain,</l>
+                  <l>And with Reſpect in Liſts <hi>Phanaticks</hi> entertain.</l>
+                  <l>All Men ſurpriſing Orators neglect,</l>
+                  <l>When They do Preach on what we leaſt expect;</l>
+                  <l>They quite forget the Goſpel for the Day,</l>
+                  <l>And from its Miſtery hurry Us away.</l>
+                  <l>On <hi>Chriſtmas</hi> Day the Birth ſhould be your Theme,</l>
+                  <l>Then you think fitteſt <hi>Railing</hi> to condemn:</l>
+                  <l>When Heav'n its Ofspring did to th' Manger bring,</l>
+                  <l>Which Wonder through the Univerſe does ring.</l>
+                  <l>You only on the Subject ſilent are,</l>
+                  <l>Mankind againſt your Preaching will declare.</l>
+                  <l>Keep to the Miſtery, and don't fly off:</l>
+                  <l>One Miſt'ry has for One Sermon ſcope enough.</l>
+                  <l>Many have thus propos'd, but ere They'd done,</l>
+                  <l>Forgetting That, on ſomething elſe did run.</l>
+                  <l>
+                     <pb n="58" facs="tcp:59243:31"/>This <hi>Parſon</hi> to the <hi>People</hi>'s a Rank Cheat;</l>
+                  <l>In you for Ignorance paſſes, not Deceit:</l>
+                  <l>The Greatneſs of the Myſt'ry did you know,</l>
+                  <l>'Twould make its Order and Concluſion too:</l>
+                  <l>The <hi>Thing Deep Meditation</hi> does demand,</l>
+                  <l>Which if the Preacher don't well underſtand,</l>
+                  <l>Leaving the Subjects which ſuch pains would coſt,</l>
+                  <l>And ſhifting where his Needs require him moſt;</l>
+                  <l>His Sermons nothing to the Purpoſe makes;</l>
+                  <l>His Voice like Thunder Church &amp; Pulpit ſhakes,</l>
+                  <l>And a loud Noiſe the People Threatning makes:</l>
+                  <l>For all this Buſtle you may yet remarque;</l>
+                  <l>As to their Faith They ſtill are in the Dark.</l>
+                  <l>they could not tell, if ask't at th' End of <hi>Lent,</hi>
+                  </l>
+                  <l>What by True Chriſtianity is meant:</l>
+                  <l>And They perhaps know not one Jot the more,</l>
+                  <l>What to think of the God which They Adore.</l>
+               </lg>
+               <lg>
+                  <pb n="59" facs="tcp:59243:31"/>
+                  <l>If on <hi>Faiths</hi> Miſteries you Diſcourſes hold,</l>
+                  <l>Make them ſome Great Important Truth unfold:</l>
+                  <l>Quote both the Scripture and the Fathers too;</l>
+                  <l>If needful, thoſe Quotations we allow:</l>
+                  <l>In Trivial Things, ſpeak Latin Ev'ry where,</l>
+                  <l>Your making Great St. <hi>Auſtin,</hi> I can't bear.</l>
+                  <l>Nor quoting Scripture much in Matters plain,</l>
+                  <l>Such Lectures, and their Praiſes, are but Vain.</l>
+               </lg>
+               <lg>
+                  <l>We aukward Palats and Croſs Wits detect,</l>
+                  <l>Who think They Preach, if They can but collect.</l>
+                  <l>Ev'n in Collections too they're at a loſs,</l>
+                  <l>Where Gold is plenty, They preſent you Droſs:</l>
+                  <l>I ſmoke thoſe Preachers, when I hear 'em firſt;</l>
+                  <l>Yet to the Fathers Doors they lay the worſt</l>
+                  <l>Places of all their Sermons: When the Thought</l>
+                  <l>Is falſe, a Father to maintain't is brought;</l>
+                  <l>Says He, When we do find him <hi>Reaſon wrong,</hi>
+                  </l>
+                  <l>This does t' a Father, not to me, belong.</l>
+                  <l>
+                     <pb n="60" facs="tcp:59243:32"/>
+                     <hi>A Father,</hi>—Rouz'd then I depart with Rage,</l>
+                  <l>The <hi>Biſhop</hi> with <hi>Remonſtrance</hi> trye t' Engage,</l>
+                  <l>Theſe falſe Purloiners may ſuſpended Be,</l>
+                  <l>And thus the <hi>Fathers</hi> from the Scandal free.</l>
+                  <l>The Inte'reſts of <hi>Condemned Faction</hi> quit,</l>
+                  <l>And to the Edicts of the Church ſubmit.</l>
+                  <l>Well underſtand what you for <hi>Faith</hi> delare;</l>
+                  <l>Men are ſeduced often unaware:</l>
+                  <l>And for Poſitions, which the Church does hold,</l>
+                  <l>Zeal is broaching damn'd Opinions Bold.</l>
+                  <l>Yet Zeal does not for Ignorance atone,</l>
+                  <l>For Ignorance does ſeldom reign alone.</l>
+                  <l>But its lage Empire often does divide,</l>
+                  <l>With a <hi>Phanaticks</hi> more unruly Pride.</l>
+                  <l>Confounds the Truth, but for diſtinction ſake,</l>
+                  <l>Thinks He does in a Schiſm a Conqueſt make.</l>
+                  <l>With falſe Zeal the <hi>Fanatick</hi> always Blind;</l>
+                  <l>Makes Fools to His Rebellious Boldneſs Kind.</l>
+                  <l>
+                     <pb n="61" facs="tcp:59243:32"/>No ſooner can his Wire-drawn Thoughts unfold,</l>
+                  <l>But by the Crowd is for a Saint enroll'd,</l>
+                  <l>Worthy Reſtorer of the Goſpels Light,</l>
+                  <l>He only the Old Diſcipline can ſet right.</l>
+                  <l>Friends, Strangers, Neuters, when his Name is up,</l>
+                  <l>Into the Church ſtriving for places drop,</l>
+                  <l>Coaches do one anothers paſſage ſtop.</l>
+                  <l>The Church too little for the Crowd is made,</l>
+                  <l>And Auditors the Entry Barricade;</l>
+                  <l>Till he <hi>Phanatick</hi> is declar'd at laſt,</l>
+                  <l>And the <hi>Juſt Cenſure</hi> by the <hi>Biſhop</hi> paſt:</l>
+                  <l>The Law does him due puniſhment enjoyn,</l>
+                  <l>To <hi>Newgate</hi> for his holding-forth confine:</l>
+                  <l>Theſe are the Rocks on which theſe Preachers ſplit,</l>
+                  <l>Whoſe Pride tranſcends their Modeſty, and Wit.</l>
+                  <l>—to Gain Proſelytes turns Presbyter,</l>
+                  <l>But for a <hi>Deanery</hi> does the Church prefer:</l>
+                  <l>
+                     <pb n="62" facs="tcp:59243:33"/>On this ſide now, on that ſide then did lean;</l>
+                  <l>At laſt he neither Preacher is, nor Dean.</l>
+               </lg>
+               <lg>
+                  <l>The Pulpit many ſeveral Dreamers knows,</l>
+                  <l>Who Their Wild Fancies would for Faith Impoſe:</l>
+                  <l>Other Interpreters ſo head-ſtrong are,</l>
+                  <l>As to make Faith a Caſtle in the Air.</l>
+                  <l>Thoſe ſtrange Exceſſes argue ſelf-conceit,</l>
+                  <l>Of Him whom groſly does ſelf-flattery Cheat;</l>
+                  <l>Too ſtiff to doubt, and to believe too ſhy,</l>
+                  <l>On his own Judgment ſolely does rely.</l>
+                  <l>Adhere You to the <hi>Church,</hi> the ſurer Guide;</l>
+                  <l>And thoſe <hi>Debates</hi> attempt not to decide,</l>
+                  <l>With which Her ſelf forbears to have to do;</l>
+                  <l>This would be High Preſumption ſure in You:</l>
+                  <l>In Points hard to be clear'd, Your Faith Reſign,</l>
+                  <l>And thank the <hi>Pow'rs,</hi> who thoſe commands injoyn.</l>
+                  <l>Into the middle Path of Chriſtians fall,</l>
+                  <l>'Twixt doubting Nothing, and ſuſpecting All:</l>
+                  <l>
+                     <pb n="63" facs="tcp:59243:33"/>For to what purpoſe in a doubtfull Thing,</l>
+                  <l>Should We a <hi>Scrupulous Soul</hi> diſturbed bring?</l>
+                  <l>Since many Articles, and Points <hi>Made out,</hi>
+                  </l>
+                  <l>Do leave <hi>A Sinner</hi> Room enough to <hi>Doubt.</hi>
+                  </l>
+                  <l>Truth always Perſeveres in being ſtrict,</l>
+                  <l>The <hi>Goſpel</hi> does a Rigid Life Inflict.</l>
+                  <l>In vain Man fiſhes for ſort Pleaſures there,</l>
+                  <l>Which thick ſet, We diſcover ev'ry where,</l>
+                  <l>Does only <hi>Crowns of Thorns,</hi> and <hi>Croſſes</hi> bear.</l>
+                  <l>If wanting Innocence Man <hi>Heav'ns loſs</hi> deplores,</l>
+                  <l>Repentance only that Great Loſs reſtores.</l>
+                  <l>This Goſpel-Oracle will prove too true,</l>
+                  <l>Sinners to Heav'n, but in this Road can go:</l>
+                  <l>Your Rigorous Maximes ſtill ſupport with Truth,</l>
+                  <l>Make <hi>Venial Sins,</hi> not <hi>Mortal</hi> in your Mouth:</l>
+                  <l>When with <hi>Grimace</hi> the Truth you over-act,</l>
+                  <l>I leave you, and do wiſh you more Exact.</l>
+                  <l>
+                     <pb n="64" facs="tcp:59243:34"/>Condemning the <hi>Luxurious,</hi> and <hi>Profuſe,</hi>
+                  </l>
+                  <l>Wiſhing <hi>Brocades,</hi> and <hi>Points</hi> were leſs in uſe.</l>
+                  <l>Forbear the Mode with Anguiſh to Controul;</l>
+                  <l>And for a <hi>Ribband,</hi> Damn a <hi>Harmleſs Soul:</hi>
+                  </l>
+                  <l>Patches and Paint, let—talk about;</l>
+                  <l>But plunge Rich <hi>Mammon</hi> in a deeper doubt:</l>
+                  <l>To Him the Forlorn Mans Condition ſhow,</l>
+                  <l>Wh' Oppreſs'd with Hunger, Empty to and fro;</l>
+                  <l>Life to maintain for Daily Bread does go.</l>
+                  <l>The Diſmal Figure of an Alms-Houſe Paint,</l>
+                  <l>Expiring Brethren's Groans, and dire complaint;</l>
+                  <l>Till of Attire Superfluous weary grown,</l>
+                  <l>The Wretches with Compunction does bemoan:</l>
+                  <l>Lays on his Pride the Cauſe of all Their Wrong,</l>
+                  <l>And owns what fed it did to them belong.</l>
+                  <l>This Proſpect will Dead Nature Quicken beſt,</l>
+                  <l>And make him his vain Ornaments diveſt;</l>
+                  <l>
+                     <pb n="65" facs="tcp:59243:34"/>And then reflecting on Expences paſt,</l>
+                  <l>Shall ſend his <hi>Trimming</hi> to the Poor at laſt.</l>
+                  <l>To <hi>Truth</hi> ſtick always, as I did adviſe,</l>
+                  <l>
+                     <hi>Truth</hi> only in a Sermon Edifies:</l>
+                  <l>That here you Proofs from their true Meanings wreſt,</l>
+                  <l>And there what's ſettled you with force conteſt;</l>
+                  <l>The ſence of Plaineſt Paſſages diſtort,</l>
+                  <l>Your Reputation greatly ſuffers ſor't.</l>
+                  <l>You Me, for Your Vain Eloquence muſt loſe,</l>
+                  <l>And I Your Malice, or <hi>Defects,</hi> accuſe.</l>
+                  <l>However, Novelties do Charm the Town,</l>
+                  <l>Severity with — beſt goes down.</l>
+                  <l>A <hi>Preacher</hi> that <hi>Damns</hi> with full pow'r may paſs,</l>
+                  <l>For a Great <hi>Doctor,</hi> though a very Aſs.</l>
+                  <l>Though in his Life, a Rake-Hell he appears,</l>
+                  <l>He will not fail of Zealous Followers:</l>
+                  <l>Some Preachers now there are, who've no pretence</l>
+                  <l>To Wit, or Parts, beſide Bare Confidence;</l>
+                  <l>
+                     <pb n="66" facs="tcp:59243:35"/>Who only have the Gift of being frank,</l>
+                  <l>And pleaſe the World, juſt like a Mountebank.</l>
+                  <l>This Preacher merrily ſends Souls to Hell;</l>
+                  <l>This on Sin rallies like an Infidel:</l>
+                  <l>Nothing amiſs does to his Sermons come.</l>
+                  <l>
+                     <hi>Billinſgate</hi> Jeſts, or <hi>Stories</hi> of <hi>Tom Thumb;</hi>
+                  </l>
+                  <l>Does Figures without any meaning take,</l>
+                  <l>And does a Farce of Vice, and Vertue make:</l>
+                  <l>Mark how he on the Morals does Encroach,</l>
+                  <l>And for a Trivial Thing Mankind reproach:</l>
+                  <l>You'd think that only He was Sanctify'd,</l>
+                  <l>Heaven to Him only did its Will conſide;</l>
+                  <l>That He alone the Goſpel Underſtands,</l>
+                  <l>And has the Pow'r of Heaven in his Own Hands.</l>
+               </lg>
+               <lg>
+                  <l>Suppoſe the World thus after Him did run,</l>
+                  <l>What mighty Wonders have his Sermons done?</l>
+                  <l>The People ev'ry Thing in Time does tire,</l>
+                  <l>They into Our Apoſtles Life enquire.</l>
+                  <l>
+                     <pb n="67" facs="tcp:59243:35"/>If at His Neighbours Coſt He ſhould make ſport,</l>
+                  <l>On him his Neighbour would the Jeſt retort:</l>
+                  <l>With the Dreads, and Ills, which Jeſting brings;</l>
+                  <l>The World delights to Ridicule ſuch Things:</l>
+                  <l>And if I ſhould be hang'd, I cann't forbear</l>
+                  <l>T' inſert a very Comick Paſſage here.</l>
+               </lg>
+               <lg>
+                  <l>One of that Claſs, by this Deſcription known,</l>
+                  <l>Preach't pretty often very near the Town:</l>
+                  <l>His ſpleen did oft againſt thoſe Sinners Vent,</l>
+                  <l>Who for their Eaſe to Church in Coaches went:</l>
+                  <l>Exclaim'd at Them, at leaſt a Hundred times,</l>
+                  <l>Said a Coach was one of the Mortal Crimes.</l>
+                  <l>In his Friends Coach to Church his Reverence came;</l>
+                  <l>His Memory there was very much too Blame,</l>
+                  <l>His Friend ſo on a ſudden to forget,</l>
+                  <l>Who did under his Noſe a Hearer ſit:</l>
+                  <l>Zeal often does the Memory betray.</l>
+                  <l>The Sermon ended, all ſtrait march away;</l>
+                  <l>
+                     <pb n="68" facs="tcp:59243:36"/>The Friend forthwith into his Coach does ſtep,</l>
+                  <l>Where the Good Preacher did attempt to leap;</l>
+                  <l>Putting him by, moſt gently with his hand,</l>
+                  <l>The Friend ſays, What's your Pleaſure to command?</l>
+                  <l>My Place, the Preacher preſently replies:</l>
+                  <l>Your Place, Sir? his Dear Friend ſurprized, cryes;</l>
+                  <l>What, ſhall I make you ſuch a Sin commit?</l>
+                  <l>Troth, Sir, my Conſcience will not ſuffer it;</l>
+                  <l>And ſince I cann't with ſafety put you to't,</l>
+                  <l>For my part, you muſt e'en march home on foot.</l>
+               </lg>
+            </div>
+            <div n="4" type="canticle">
+               <pb n="69" facs="tcp:59243:36"/>
+               <head>Cant. IV.</head>
+               <lg>
+                  <l>FRom Flattery free thoſe days thrice happy were,</l>
+                  <l>When without peril Men might be ſincere:</l>
+                  <l>When Liberty all o're the World did Reign,</l>
+                  <l>When Hopes and Fears did not make Mortals Vain.</l>
+                  <l>Thoſe Happy Days Wealth too ſoon chas'd away,</l>
+                  <l>
+                     <hi>Ambition,</hi> and <hi>Baſe Fear</hi> then came in Play:</l>
+                  <l>Then a Profeſſed Cheat came firſt in Vogue,</l>
+                  <l>And Men would Compliment the Cringing Rogue.</l>
+                  <l>Truth was defy'd, and made the Jeſters ſport,</l>
+                  <l>Was buffeted from Pulpit and from Court:</l>
+                  <l>For that Excited by a Pungent Zeal,</l>
+                  <l>Diſguis'd Delinquents ready to unveil.</l>
+                  <l>
+                     <pb n="70" facs="tcp:59243:37"/>Great Men were kept in awe of being bit;</l>
+                  <l>Yet <hi>Flattery</hi> found the Trick to ſtiffle it.</l>
+                  <l>The Timorous Pulpit has been very Nice,</l>
+                  <l>And mighty ſhy in Reprehending Vice.</l>
+                  <l>For a Sinners Honour ſtickles after Fate,</l>
+                  <l>His Memory in a Sermon Celebrate,</l>
+                  <l>Become in Praiſing Him Immoderate.</l>
+                  <l>Againſt Old Cuſtomes how dare I declaim?</l>
+                  <l>Out of <hi>Oblivions</hi> aſhes rake ſome Great Mans Name:</l>
+                  <l>In that Deep Science—Imitate,</l>
+                  <l>And to your ſelf a Fame, like His, Create.</l>
+                  <l>That Talent <hi>Heroes</hi> in requeſt admire,</l>
+                  <l>Who ſure of Praiſe in Quiet can expire;</l>
+                  <l>You tell me, Parſon, on that Art I droll,</l>
+                  <l>I muſt your Lying Faculty Controul.</l>
+                  <l>Which makes you ev'n before the Altar dare,</l>
+                  <l>Notorious Sinners for Bleſt Saints declare.</l>
+                  <l>
+                     <pb n="71" facs="tcp:59243:37"/>That Flatt'ring Art to Poets then bequeath,</l>
+                  <l>Write no Great Mans <hi>Memoires</hi> juſt after Death.</l>
+                  <l>If his low merit leave no pledge beſide,</l>
+                  <l>The Word of Partial Friends, or Kindreds Pride;</l>
+                  <l>The Publick firſt ſhould his <hi>Memoires</hi> Proclaim,</l>
+                  <l>For you in vain Trace his Fore Fathers Fame,</l>
+                  <l>And Stile him Gallant, Liberal, and Brave;</l>
+                  <l>Titles, to which he no pretence could have;</l>
+                  <l>That Panegyrick which your heart does wrong,</l>
+                  <l>Damns both the <hi>Hero,</hi> &amp; your flatt'ring Tongue.</l>
+                  <l>Give me a <hi>Hero</hi> with more than one Name,</l>
+                  <l>Equal with Mighty WILLIAM in Fame;</l>
+                  <l>Whoſe Fame by publick Acclamations Rais'd,</l>
+                  <l>The Commons firſt in Panegyrick prais'd;</l>
+                  <l>But rather of a Saint in Heaven make choice,</l>
+                  <l>One their Exalted by the Sacred voice,</l>
+                  <l>Whoſe ſuffering &amp; repentance ſhall diſpence</l>
+                  <l>On your Diſcourſe, a Happier Influence,</l>
+                  <l>Give greater Luſtre, to your Eloquence:</l>
+                  <gap reason="missing" extent="4 pages">
+                     <desc>〈4 pages missing〉</desc>
+                  </gap>
+                  <l>
+                     <pb n="76" facs="tcp:59243:38"/>Then Stick not <hi>Panegyrick,</hi> to deſign;</l>
+                  <l>But to your Saint, you whole Diſcourſe confine:</l>
+                  <l>Out of the Road of Common Places ſtrike;</l>
+                  <l>None but the <hi>Hero,</hi> draw the Figure like,</l>
+                  <l>Praiſes and Morals are much better ſpar'd,</l>
+                  <l>Which any other Man than Ours regard:</l>
+                  <l>A Man in an Oration's much the ſame</l>
+                  <l>Thing, as a Picture in a Guilded Frame;</l>
+                  <l>Which taken off, and for a time laid by,</l>
+                  <l>Another will as well the place ſupply.</l>
+                  <l>The Preacher a Courſe little different Takes,</l>
+                  <l>And of one Panegyrick Fifty makes;</l>
+                  <l>There's ſcarce a Colledge, Alms-houſe, Hoſpital,</l>
+                  <l>But he can on occaſion preach them all,</l>
+                  <l>Though he their Founders Lives, or Names don't know</l>
+                  <l>Two or Three Sermons will his Buſineſs do:</l>
+                  <l>Whilſt, at the Court with vanity you Steer,</l>
+                  <l>That place where 100<hi>'s</hi> have bin Ship-wrackt fear</l>
+                  <l>
+                     <pb n="77" facs="tcp:59243:38"/>Whom in that <hi>Dangerous Field</hi> we don't admire;</l>
+                  <l>Muſt, Bluſhing at his Raſh Attempts, retire.</l>
+                  <l>'Tis difficult that <hi>Tickliſh Courſe</hi> to tread;</l>
+                  <l>Nought for your <hi>Voice, Air, Style,</hi> can Intercede:</l>
+                  <l>Your <hi>Words,</hi> or <hi>Actions,</hi> There All will be ſcann'd;</l>
+                  <l>And are, if not in <hi>Great Perfection,</hi> Damn'd.</l>
+                  <l>
+                     <hi>Sincerity,</hi> and <hi>Chriſtian Vertues,</hi> There</l>
+                  <l>Very Unwelcome, and Uneaſy, are.</l>
+                  <l>And yet the <hi>Orator</hi> no Good can do,</l>
+                  <l>Who's not both <hi>Cenſurer,</hi> and <hi>Chriſtian</hi> too.</l>
+                  <l>Each Man for th' <hi>Image</hi> of his <hi>Vices</hi> looks;</l>
+                  <l>Whoſe <hi>Giddy Humour</hi> the Thing done, provokes:</l>
+                  <l>Then They in queſtion, his <hi>Diſcretion</hi> call,</l>
+                  <l>For having, in Reſemblance, pleas'd them All.</l>
+                  <l>Go in thoſe Places <hi>Heav'n</hi> does You command;</l>
+                  <l>Appear Conducted by th' <hi>Almighty Hand:</hi>
+                  </l>
+                  <l>Confine your <hi>Wiſhes,</hi> and with <hi>Patience</hi> bear,</l>
+                  <l>To Preach to Them, who follow You to Hear.</l>
+                  <l>
+                     <pb n="78" facs="tcp:59243:39"/>
+                     <hi>Cook</hi> at <hi>Court</hi> Preaches, <hi>Hook</hi> in <hi>Country-Town;</hi>
+                  </l>
+                  <l>Which is the Beſt, in your Opinion?</l>
+                  <l>
+                     <hi>Cook</hi> makes us Sleep, we Weep when we hear <hi>Hook;</hi>
+                  </l>
+                  <l>
+                     <hi>Hook</hi> then we needs muſt judge worth Ten of <hi>Cook.</hi>
+                  </l>
+                  <l>If your <hi>Starrs</hi> prove Malignant, and unkind;</l>
+                  <l>If with <hi>Great Lords</hi> You no Reception find,</l>
+                  <l>Your wonted Importunity forbear;</l>
+                  <l>Trouble not Them, who have no Mind to Hear.</l>
+                  <l>For <hi>Propagation</hi> of the <hi>Faith,</hi> to ſhow</l>
+                  <l>Your Ardent Zeal, an <hi>Emiſſary</hi> go.</l>
+                  <l>In Remote, untaught <hi>Deſarts,</hi> raiſe your <hi>Voice;</hi>
+                  </l>
+                  <l>Do by Neceſs'ty, what One did by Choice.</l>
+                  <l>Your <hi>Talent</hi> uſeleſs, 'tis too long to keep;</l>
+                  <l>To tire the <hi>Town,</hi> and Lull the <hi>Court</hi> Aſleep:</l>
+                  <l>Poor <hi>Sinners,</hi> who from <hi>Life</hi>'s Refreſhment ſtray,</l>
+                  <l>Might quench their <hi>thirſt,</hi> with what you caſt away.</l>
+                  <l>
+                     <hi>Parſon,</hi> The <hi>Imputation</hi>'s chiefly due,</l>
+                  <l>And <hi>Scandal</hi> of their <hi>Ignorance,</hi> to You.</l>
+                  <l>
+                     <pb n="79" facs="tcp:59243:39"/>Of You do I, for want of This, complain;</l>
+                  <l>You whom <hi>Heav'n</hi> form'd <hi>great Lords</hi> to entertain.</l>
+                  <l>On then, perform what <hi>Heaven</hi> for You decreed;</l>
+                  <l>With your enchanting <hi>Eloquence,</hi> proceed:</l>
+                  <l>'Tis high Time; therefore, get into the <hi>Chair.</hi>
+                  </l>
+                  <l>Stay 'till I've Powder'd, and curl'd up my Hair,</l>
+                  <l>Took off my Beard, ſays He, I'le ſtrait be There.</l>
+                  <l>O <hi>Parſon,</hi> Who do You deſign to pleaſe</l>
+                  <l>With ſuch Fantaſtick, Foppiſh Pains, as theſe?</l>
+                  <l>Is't poſſible ſo <hi>Worldly an Out-ſide</hi>
+                  </l>
+                  <l>Can be to <hi>Goſpel-Truth</hi> ſo near Ally'd?</l>
+                  <l>
+                     <hi>Faſting,</hi> do your Plump, Ruddy Cheeks promote?</l>
+                  <l>Or <hi>Penitence,</hi> your Powder'd Hair denote?</l>
+                  <l>Happy is He, whom <hi>Nature,</hi> in the <hi>Chair,</hi>
+                  </l>
+                  <l>Freely Endow'd with a <hi>Delightful Air:</hi>
+                  </l>
+                  <l>'Tis neceſſary thought but by a <hi>Fop;</hi>
+                  </l>
+                  <l>But there are Other Ways to be cry'd up.</l>
+                  <l>
+                     <pb n="80" facs="tcp:59243:40"/>It is not your <hi>Affected Air</hi> does move;</l>
+                  <l>But as the <hi>Sermon</hi> is, the <hi>Hearers</hi> prove.</l>
+                  <l>Neglect in <hi>Pulpit</hi> no beſeeming <hi>Grace;</hi>
+                  </l>
+                  <l>Aſcend, with <hi>Modeſty,</hi> the <hi>Sacred Place:</hi>
+                  </l>
+                  <l>And, by your <hi>Venerable Carriage,</hi> ſhow,</l>
+                  <l>That You the <hi>Reverence</hi> of your <hi>Function</hi> know.</l>
+                  <l>At your Firſt Entry, be not over-loud;</l>
+                  <l>And Elevate your <hi>Subjects</hi> to the Clouds.</l>
+                  <l>Speak out with Force; What boots it You to cry?</l>
+                  <l>At laſt, You Paſſionate may, if juſtly, be.</l>
+                  <l>The People's <hi>Genius</hi> no Controulment bears:</l>
+                  <l>
+                     <hi>Words</hi> pleaſe the <hi>Great Ones</hi> Beſt, the <hi>People, Tears.</hi>
+                  </l>
+                  <l>To Pleaſe by Turns, their different Palates ſeek;</l>
+                  <l>Cry at St. <hi>Margets,</hi> at the <hi>Abby</hi> Speak.</l>
+                  <l>Manage your <hi>Voices,</hi> Force and Latitude,</l>
+                  <l>That without Pain, You may be underſtood.</l>
+                  <l>This ſhunning Slowneſs <hi>Gallops</hi> on Poſt-haſte;</l>
+                  <l>The Other <hi>Jades,</hi> in fear to march too faſt:</l>
+                  <l>
+                     <pb n="81" facs="tcp:59243:40"/>One I can't <hi>Follow,</hi> nor for T'other <hi>Stay;</hi>
+                  </l>
+                  <l>And Neither pleaſing Me, I go my way.</l>
+                  <l>Too Faſt their <hi>Sermons,</hi> or too Lagging go,</l>
+                  <l>When <hi>they'd</hi> by <hi>heart,</hi> ſay what by <hi>halv's</hi> they <hi>know.</hi>
+                  </l>
+                  <l>Their <hi>Mem'ry</hi> then falls from full Speed to Trot;</l>
+                  <l>What You'd ſay, ſhould in <hi>Readineſs</hi> be got:</l>
+                  <l>To be got <hi>Ready,</hi> well be <hi>Study'd</hi> muſt;</l>
+                  <l>Ev'n then You ſhould your <hi>Memory</hi> diſtruſt.</l>
+                  <l>'Tis a great Blot, when in its Place too late,</l>
+                  <l>A <hi>Word</hi> arrives, that makes You Heſitate;</l>
+                  <l>And of a <hi>Natural Expreſſion</hi> fail,</l>
+                  <l>We, in concern, Sweat, Tremble, and grow Pale.</l>
+                  <l>Without Book, Word for Word, your <hi>Sermon</hi> get;</l>
+                  <l>But let your <hi>Mem'ry</hi> to your <hi>Thought</hi> ſubmit:</l>
+                  <l>Not to Conſtrain, or Bridle it, pretend;</l>
+                  <l>But <hi>Thought</hi> admit, and <hi>Words,</hi> when You can mend.</l>
+                  <l>
+                     <hi>Extempore</hi> with Repeated Words abounds;</l>
+                  <l>There <hi>Phraſes</hi> never keep within their Bounds.</l>
+                  <l>
+                     <pb n="82" facs="tcp:59243:41"/>
+                     <hi>Words</hi> ſpoke at <hi>Random,</hi> have not half the Grace,</l>
+                  <l>As a <hi>Word</hi> ranked in its <hi>Proper Place:</hi>
+                  </l>
+                  <l>But <hi>Plain Diſcourſe,</hi> of <hi>Order</hi> void, and <hi>Art,</hi>
+                  </l>
+                  <l>Is Better than a <hi>Startcht One,</hi> got by <hi>Heart.</hi>
+                  </l>
+                  <l>Manage your <hi>Fires;</hi> for ſome conceive they charm,</l>
+                  <l>When <hi>Toils</hi> and <hi>Travels</hi> their <hi>Chil'd Fancies</hi> warm:</l>
+                  <l>Defective of that <hi>Neceſſary Fire,</hi>
+                  </l>
+                  <l>Help from their <hi>Neighbour</hi> They for Need require.</l>
+                  <l>So under <hi>Heroes,</hi> Trembling Souldiers ſtand,</l>
+                  <l>Gueſſing the Battle to be near at hand;</l>
+                  <l>Their ſlumb'ring Valour by Degrees retrieve,</l>
+                  <l>When Unconcern'd Their Leader They percieve,</l>
+                  <l>And by his Looks, ſtrikes Terror in his Foes:</l>
+                  <l>Then from the Field in Glorious Tryumph goes.</l>
+                  <l>
+                     <hi>Valour</hi> was never Judged by a <hi>Noiſe,</hi>
+                  </l>
+                  <l>Nor Eloquence beholding to a <hi>Voice.</hi>
+                  </l>
+                  <l>In vain to kindle Fires the <hi>Preacher</hi> tries,</l>
+                  <l>Which want of Zeal to his own Breaſt denies:</l>
+                  <l>
+                     <pb n="83" facs="tcp:59243:41"/>And tho' he ſtrives with <hi>Warmth</hi> drawn up by <hi>Art,</hi>
+                  </l>
+                  <l>Seems Ice to me, and cannot warm my Heart.</l>
+                  <l>To put hard ſtreſs upon your Voice refrain,</l>
+                  <l>Nor t' incommode your Health, your Body ſtrain:</l>
+                  <l>To <hi>Regular Motions</hi> let your Hand be brought,</l>
+                  <l>To ſhew Your <hi>Meaning,</hi> and expreſs Your <hi>Thought.</hi>
+                  </l>
+                  <l>You'd ſwear, That into ſinful Souls our <hi>Prieſt</hi>
+                  </l>
+                  <l>Would beat deep ſorrow in with's doubled Fiſt:</l>
+                  <l>Be You more Wiſe, and let not your <hi>Addreſs,</hi>
+                  </l>
+                  <l>Your frequent <hi>Poſture-Practiſing</hi> confeſs.</l>
+                  <l>
+                     <hi>Nature</hi> does Guide <hi>the Hand, the Voice, the Eye,</hi>
+                  </l>
+                  <l>And ſuitable to the Diſcourſe all Three.</l>
+                  <l>Upon That Subject One has Verſes Writ;</l>
+                  <l>And you may read 'em o're, if you think fit.</l>
+                  <l>To all your faults be Rigorous as you can,</l>
+                  <l>I nam'd you <hi>Snipſon,</hi> a down-right honeſt Man:</l>
+                  <l>Learned by Nature, ſitted for the <hi>Chair,</hi>
+                  </l>
+                  <l>His Wit's Obſtruction was his <hi>Ruſtick Air.</hi>
+                  </l>
+                  <l>
+                     <pb n="84" facs="tcp:59243:42"/>His Friends outragious, tho' in Vain, were grown,</l>
+                  <l>Correct your <hi>Air,</hi> cry'd They, &amp; Change your <hi>Tone.</hi>
+                  </l>
+                  <l>In anſwer, He more Clowniſh, does reply,</l>
+                  <l>Your Dainty, Fine-Mouth'd Preachers I defy:</l>
+                  <l>Far from Faults mending which reproved were;</l>
+                  <l>In Them, He was well pleas'd to perſevere.</l>
+                  <l>Says He, For my part, I the <hi>Goſpel</hi> Preach,</l>
+                  <l>And ſhall not mind what ſome pretend to Teach:</l>
+                  <l>So <hi>London</hi> caſt him off thus Unrefin'd,</l>
+                  <l>And He no Audience could in <hi>Village</hi> find.</l>
+                  <l>At This Diſcourſe a Citizen in pet,</l>
+                  <l>I hear cry out, What would you, Sir, be at?</l>
+                  <l>Muſt no Man ever Preach, but what's <hi>Polite?</hi>
+                  </l>
+                  <l>Why Pray ſo ſharply the dead <hi>Collins</hi> bite?</l>
+                  <l>But raſhly my Intentions you Accuſe,</l>
+                  <l>And Slander my Diſcreet and Cautious <hi>Muſe:</hi>
+                  </l>
+                  <l>For you ſhall ſind in my Deſcriptions ſtill,</l>
+                  <l>Vice real is, The reſt is what you will.</l>
+                  <l>
+                     <pb n="85" facs="tcp:59243:42"/>Let's Talk of <hi>Collins,</hi> ſince that Man you name:</l>
+                  <l>The Clowniſhneſs which you in <hi>Snipſon</hi> blame,</l>
+                  <l>As much to <hi>Collins</hi> to belong is known;</l>
+                  <l>And yet he had the knack to Charm the Town.</l>
+                  <l>If you the leaſt of his Succeſs ſhould doubt,</l>
+                  <l>His <hi>Biſhoprick</hi> moſt plainly makes it out?</l>
+                  <l>I doubt it not, But where Tends your Diſcourſe?</l>
+                  <l>To ſhew That Void of <hi>Art,</hi> by <hi>Natures</hi> force,</l>
+                  <l>In Pulpit a meer Clown may have ſucceſs.</l>
+                  <l>Why, did not I my ſelf as much confeſs?</l>
+                  <l>You of your <hi>Harpur</hi> do the Carriage blame;</l>
+                  <l>Why may not I of <hi>Snipſon</hi>'s do the ſame?</l>
+                  <l>If He is for his Clowniſhneſs forſook,</l>
+                  <l>Muſt We on This, as on a Wonder, look?</l>
+                  <l>Let's leave Our waſpiſh <hi>Cit</hi> whom I offend:</l>
+                  <l>But one Word more, and I will make an End.</l>
+                  <l>All That does pleaſe is Good, and ſhould be ſought;</l>
+                  <l>The contrary Retrench, for 'tis a fault.</l>
+                  <l>
+                     <pb n="86" facs="tcp:59243:43"/>When Clowns can pleaſe ſo well, What need of <hi>Art?</hi>
+                  </l>
+                  <l>But <hi>Juſtneſs</hi> pleaſes ſtill the <hi>Major Part.</hi>
+                  </l>
+                  <l>Study hard to acquire it, and forbear</l>
+                  <l>To think it, <hi>Bigot-like,</hi> an Impious care.</l>
+                  <l>For Our Converſion, not Diverſion, Aim.</l>
+                  <l>The <hi>Citizens</hi> your Artleſs <hi>Sermons</hi> Love;</l>
+                  <l>The <hi>Lords</hi> no leſs the Contrary approve.</l>
+                  <l>Say not that Zeal at Court is uſeleſs grown;</l>
+                  <l>For Sin does Reign in <hi>Court</hi> as well as <hi>Town:</hi>
+                  </l>
+                  <l>And there is many an honeſt Chriſtian <hi>Heart,</hi>
+                  </l>
+                  <l>Which may be Touch't, if th' <hi>Preacher</hi> does his part.</l>
+                  <l>There—expert,</l>
+                  <l>Do many Souls from cuſtom'd Sins convert.</l>
+                  <l>There ev'ry day He ſhews the Truth bare-fac'd,</l>
+                  <l>By many made perhaps to be Embrac'd.</l>
+               </lg>
+               <lg>
+                  <l>A hundred more I eaſily could name:</l>
+                  <l>Whoſe <hi>Zeal</hi> no way Inferiour to their <hi>Fame;</hi>
+                  </l>
+                  <l>
+                     <pb n="87" facs="tcp:59243:43"/>Sent the <hi>Creators</hi> purpoſe to effect,</l>
+                  <l>Will tread the Courſe where <hi>Heav'n</hi> did <hi>them</hi> direct.</l>
+                  <l>To Me in Private Villages forlorn,</l>
+                  <l>Their Names, on Wings of Echoes, ſhall be borne:</l>
+                  <l>Pleas'd their <hi>Court-Sermons</hi> are on Vertue made,</l>
+                  <l>I free from Envy, which attends That Trade,</l>
+                  <l>Am as contented, my Acquaintance ſhou'd</l>
+                  <l>Silenc'd, or follow'd be, for th' <hi>Publick GOOD.</hi>
+                  </l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:59243:44"/>
+            <pb facs="tcp:59243:44"/>
+            <head>ERRATA.</head>
+            <p>PAge 3. Line 5. for <hi>being</hi> read <hi>begin.</hi> p. 17. l. 6. for <hi>his</hi> r. <hi>our.</hi> p. 21. l. 12. for <hi>for</hi> r. <hi>but.</hi> p. 25. l. 4. for <hi>Chriſtian's</hi> r. <hi>Chriſtian Liberty.</hi> p. 38. l. 8. for <hi>Mouth</hi> r. <hi>Mouths.</hi> Ibid. l. 11. for <hi>Similies</hi> r. <hi>Similes.</hi> p. 51. for <hi>They really.</hi> r. <hi>really They.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
